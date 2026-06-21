@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import Image from 'next/image';
 
 export default function LandingPage() {
   const router = useRouter();
@@ -38,19 +37,6 @@ export default function LandingPage() {
 
       {/* Hero */}
       <div className="relative flex-1 flex flex-col items-center justify-center text-center px-6 pt-20 pb-16">
-        {/* Mascot */}
-        <div className="mb-6">
-          <Image
-            src="/mascot.png"
-            alt="Ireum mascot"
-            width={96}
-            height={96}
-            unoptimized
-            className="mx-auto object-contain"
-            style={{ filter: 'drop-shadow(0 8px 20px rgba(180,100,120,0.28))' }}
-          />
-        </div>
-
         {/* Brand */}
         <p className="text-xs text-[var(--ink-2)] tracking-[0.25em] uppercase mb-4">
           Ireum · 이름

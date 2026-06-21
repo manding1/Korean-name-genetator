@@ -101,14 +101,6 @@ export default function ShareCard({ result }: ShareCardProps) {
             <div style={{ fontSize: 11, letterSpacing: '0.2em', color: '#6E6862', textTransform: 'uppercase', fontWeight: 700 }}>
               Ireum · 이름
             </div>
-            <div style={{
-              width: 34, height: 34, borderRadius: '50%',
-              background: '#FDE8ED', display: 'flex', alignItems: 'center', justifyContent: 'center',
-              overflow: 'hidden',
-            }}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/mascot.png" alt="Ireum mascot" style={{ width: 26, height: 'auto' }} />
-            </div>
           </div>
 
           {/* Name — center */}
