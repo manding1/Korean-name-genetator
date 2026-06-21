@@ -43,73 +43,32 @@ export default function OtherNames({
           return (
             <div
               key={alt.name_korean + i}
-              className="flex items-center gap-4 p-4 rounded-2xl"
+              className="p-4 rounded-2xl"
               style={{
                 background: color.tint,
                 outline: isSelected ? `2px solid ${color.accent}` : 'none',
               }}
             >
-              {/* Korean name */}
-              <div className="shrink-0" style={{ minWidth: 84 }}>
-                <p
-                  className="font-korean leading-none"
-                  style={{ fontSize: 28, color: 'var(--ink)' }}
-                >
-                  {surnameKorean}{alt.name_korean}
-                </p>
-                <p
-                  className="font-display font-semibold mt-1"
-                  style={{ fontSize: 12, color: 'var(--ink-2)' }}
-                >
-                  {surnameRomanized} {alt.name_romanized}
-                </p>
-              </div>
-
-              {/* Divider */}
-              <div
-                style={{
-                  width: 1,
-                  alignSelf: 'stretch',
-                  background: 'var(--line-2)',
-                  opacity: 0.6,
-                }}
-              />
-
-              {/* Meaning + score */}
-              <div className="flex-1 min-w-0">
-                <p
-                  className="text-sm leading-snug mb-2"
-                  style={{ color: 'var(--ink)', fontWeight: 500 }}
-                >
-                  {alt.name_meaning}
-                </p>
-                <div className="flex items-center gap-2">
-                  <div
-                    className="flex-1 rounded-full overflow-hidden"
-                    style={{ height: 4, background: 'var(--line-2)' }}
+              {/* Row 1: name + button */}
+              <div className="flex items-center justify-between gap-3 mb-2">
+                <div>
+                  <p
+                    className="font-korean leading-none"
+                    style={{ fontSize: 26, color: 'var(--ink)' }}
                   >
-                    <div
-                      className="h-full rounded-full"
-                      style={{
-                        width: `${alt.compatibility_score}%`,
-                        background: color.accent,
-                      }}
-                    />
-                  </div>
-                  <span
-                    className="text-xs font-bold shrink-0"
-                    style={{ color: color.accent }}
+                    {surnameKorean}{alt.name_korean}
+                  </p>
+                  <p
+                    className="font-display font-semibold mt-0.5"
+                    style={{ fontSize: 11, color: 'var(--ink-2)' }}
                   >
-                    {alt.compatibility_score}%
-                  </span>
+                    {surnameRomanized} {alt.name_romanized}
+                  </p>
                 </div>
-              </div>
 
-              {/* Action button */}
-              <div className="shrink-0">
                 {isSelected ? (
                   <div
-                    className="flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-bold"
+                    className="shrink-0 flex items-center gap-1 px-3 py-1.5 rounded-full text-xs font-bold"
                     style={{ background: color.accent, color: '#fff' }}
                   >
                     ✓ 선택됨
@@ -117,7 +76,7 @@ export default function OtherNames({
                 ) : (
                   <button
                     onClick={() => onSelect(alt)}
-                    className="px-3 py-1.5 rounded-full text-xs font-bold transition-opacity hover:opacity-80 active:scale-95"
+                    className="shrink-0 px-3 py-1.5 rounded-full text-xs font-bold transition-opacity hover:opacity-80 active:scale-95"
                     style={{
                       border: `1.5px solid ${color.accent}`,
                       color: color.accent,
@@ -127,6 +86,36 @@ export default function OtherNames({
                     Use This Name
                   </button>
                 )}
+              </div>
+
+              {/* Row 2: meaning */}
+              <p
+                className="text-xs leading-snug mb-2"
+                style={{ color: 'var(--ink-2)' }}
+              >
+                {alt.name_meaning}
+              </p>
+
+              {/* Row 3: score bar */}
+              <div className="flex items-center gap-2">
+                <div
+                  className="flex-1 rounded-full overflow-hidden"
+                  style={{ height: 4, background: 'var(--line-2)' }}
+                >
+                  <div
+                    className="h-full rounded-full"
+                    style={{
+                      width: `${alt.compatibility_score}%`,
+                      background: color.accent,
+                    }}
+                  />
+                </div>
+                <span
+                  className="text-xs font-bold shrink-0"
+                  style={{ color: color.accent }}
+                >
+                  {alt.compatibility_score}%
+                </span>
               </div>
             </div>
           );
