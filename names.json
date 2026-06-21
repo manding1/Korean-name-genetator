@@ -1,0 +1,9337 @@
+[
+  {
+    "id": 1,
+    "name_korean": "서윤",
+    "name_romanized": "Seoyun",
+    "gender": "female",
+    "creative": 5,
+    "warm": 10,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 9,
+    "meaning": "Clear grace that shines with bright harmony",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name_korean": "서연",
+    "name_romanized": "Seoyeon",
+    "gender": "female",
+    "creative": 5,
+    "warm": 7,
+    "urban": 9,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Graceful as lotus blooms along a clear stream",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name_korean": "지우",
+    "name_romanized": "Jiu",
+    "gender": "female",
+    "creative": 5,
+    "warm": 10,
+    "urban": 9,
+    "independent": 3,
+    "elegant": 10,
+    "meaning": "Wisdom that fills the vast universe",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name_korean": "하윤",
+    "name_romanized": "Hayun",
+    "gender": "female",
+    "creative": 2,
+    "warm": 8,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Summer warmth shining with bright harmony",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name_korean": "서현",
+    "name_romanized": "Seohyeon",
+    "gender": "female",
+    "creative": 3,
+    "warm": 9,
+    "urban": 7,
+    "independent": 4,
+    "elegant": 7,
+    "meaning": "Clear grace and wise virtue combined",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name_korean": "하은",
+    "name_romanized": "Haeun",
+    "gender": "female",
+    "creative": 4,
+    "warm": 8,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Silver grace of a warm summer",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name_korean": "민서",
+    "name_romanized": "Minseo",
+    "gender": "female",
+    "creative": 3,
+    "warm": 8,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Bright as the sky with clear grace",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name_korean": "지유",
+    "name_romanized": "Jiyu",
+    "gender": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Wisdom that flows gently",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name_korean": "윤서",
+    "name_romanized": "Yunseo",
+    "gender": "female",
+    "creative": 6,
+    "warm": 10,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Bright harmony with clear grace",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name_korean": "채원",
+    "name_romanized": "Chaewon",
+    "gender": "female",
+    "creative": 4,
+    "warm": 10,
+    "urban": 10,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Colorful brilliance blooming in a garden of wishes",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name_korean": "수아",
+    "name_romanized": "Sua",
+    "gender": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 10,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Pure excellence with elegant beauty",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name_korean": "지아",
+    "name_romanized": "Jia",
+    "gender": "female",
+    "creative": 3,
+    "warm": 7,
+    "urban": 9,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Wisdom and elegant beauty",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name_korean": "서아",
+    "name_romanized": "Seoa",
+    "gender": "female",
+    "creative": 2,
+    "warm": 10,
+    "urban": 6,
+    "independent": 4,
+    "elegant": 9,
+    "meaning": "Clear graceful elegance",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name_korean": "지민",
+    "name_romanized": "Jimin",
+    "gender": "female",
+    "creative": 6,
+    "warm": 8,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Wisdom brightness",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name_korean": "지안",
+    "name_romanized": "Jian",
+    "gender": "female",
+    "creative": 3,
+    "warm": 7,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Wisdom and peaceful serenity",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "안",
+        "romanized": "an",
+        "meaning": "peaceful serenity"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name_korean": "지윤",
+    "name_romanized": "Jiyun",
+    "gender": "female",
+    "creative": 3,
+    "warm": 10,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Wisdom that shines harmoniously",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name_korean": "다은",
+    "name_romanized": "Daeun",
+    "gender": "female",
+    "creative": 4,
+    "warm": 8,
+    "urban": 9,
+    "independent": 4,
+    "elegant": 9,
+    "meaning": "Abundant silver grace",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name_korean": "은서",
+    "name_romanized": "Eunseo",
+    "gender": "female",
+    "creative": 5,
+    "warm": 9,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 9,
+    "meaning": "Silver grace that flows clearly",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name_korean": "하린",
+    "name_romanized": "Harin",
+    "gender": "female",
+    "creative": 7,
+    "warm": 6,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Summer jade, rare and beautiful",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "린",
+        "romanized": "rin",
+        "meaning": "precious jade"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name_korean": "예린",
+    "name_romanized": "Yerin",
+    "gender": "female",
+    "creative": 6,
+    "warm": 7,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 6,
+    "meaning": "Beautiful art like precious jade",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "린",
+        "romanized": "rin",
+        "meaning": "precious jade"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name_korean": "소율",
+    "name_romanized": "Soyul",
+    "gender": "female",
+    "creative": 6,
+    "warm": 8,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 9,
+    "meaning": "Pure harmonious rhythm",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name_korean": "예은",
+    "name_romanized": "Yeeun",
+    "gender": "female",
+    "creative": 4,
+    "warm": 8,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Beautiful art graced with silver",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name_korean": "유나",
+    "name_romanized": "Yuna",
+    "gender": "female",
+    "creative": 4,
+    "warm": 8,
+    "urban": 9,
+    "independent": 4,
+    "elegant": 7,
+    "meaning": "Gentle flow with graceful beauty",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name_korean": "수빈",
+    "name_romanized": "Subin",
+    "gender": "female",
+    "creative": 6,
+    "warm": 6,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 10,
+    "meaning": "Pure excellence with refined elegance",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "빈",
+        "romanized": "bin",
+        "meaning": "refined elegance"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name_korean": "소윤",
+    "name_romanized": "Soyun",
+    "gender": "female",
+    "creative": 5,
+    "warm": 6,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Pure harmony shining brightly",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name_korean": "예원",
+    "name_romanized": "Yewon",
+    "gender": "female",
+    "creative": 5,
+    "warm": 6,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Beautiful art in a garden of wishes",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name_korean": "지원",
+    "name_romanized": "Jiwon",
+    "gender": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 9,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Wisdom flowering in a garden of wishes",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name_korean": "아린",
+    "name_romanized": "Arin",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 6,
+    "meaning": "Elegant jade beauty",
+    "characters": [
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      },
+      {
+        "char": "린",
+        "romanized": "rin",
+        "meaning": "precious jade"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name_korean": "시은",
+    "name_romanized": "Sieun",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 8,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Poetic silver grace",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name_korean": "시아",
+    "name_romanized": "Sia",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Poetry and elegant beauty",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name_korean": "윤아",
+    "name_romanized": "Yuna",
+    "gender": "female",
+    "creative": 7,
+    "warm": 9,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Bright harmony with elegant beauty",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name_korean": "채은",
+    "name_romanized": "Chaeeun",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 8,
+    "independent": 4,
+    "elegant": 5,
+    "meaning": "Colorful brilliance and silver grace",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name_korean": "유진",
+    "name_romanized": "Yujin",
+    "gender": "female",
+    "creative": 5,
+    "warm": 7,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Gentle flow like a precious gem",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name_korean": "예나",
+    "name_romanized": "Yena",
+    "gender": "female",
+    "creative": 7,
+    "warm": 8,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Beautiful and graceful art",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name_korean": "아윤",
+    "name_romanized": "Ayun",
+    "gender": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Elegant harmonious beauty",
+    "characters": [
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name_korean": "예서",
+    "name_romanized": "Yeseo",
+    "gender": "female",
+    "creative": 6,
+    "warm": 8,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 9,
+    "meaning": "Beautiful art with clear grace",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name_korean": "유주",
+    "name_romanized": "Yuju",
+    "gender": "female",
+    "creative": 5,
+    "warm": 6,
+    "urban": 9,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Gentle flow, precious as a pearl",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name_korean": "하율",
+    "name_romanized": "Hayul",
+    "gender": "female",
+    "creative": 5,
+    "warm": 9,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Summer harmonious rhythm",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name_korean": "연우",
+    "name_romanized": "Yeonu",
+    "gender": "female",
+    "creative": 3,
+    "warm": 9,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Lotus flower and the universe",
+    "characters": [
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name_korean": "가은",
+    "name_romanized": "Gaeun",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 8,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Beautiful silver grace",
+    "characters": [
+      {
+        "char": "가",
+        "romanized": "ga",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name_korean": "주아",
+    "name_romanized": "Jua",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Precious pearl with elegant beauty",
+    "characters": [
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name_korean": "다인",
+    "name_romanized": "Dain",
+    "gender": "female",
+    "creative": 6,
+    "warm": 9,
+    "urban": 7,
+    "independent": 4,
+    "elegant": 9,
+    "meaning": "Abundant benevolence",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "인",
+        "romanized": "in",
+        "meaning": "benevolence"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name_korean": "예진",
+    "name_romanized": "Yejin",
+    "gender": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Beautiful art like a precious gem",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name_korean": "서영",
+    "name_romanized": "Seoyeong",
+    "gender": "female",
+    "creative": 7,
+    "warm": 9,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Clear grace that shines eternally",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "영",
+        "romanized": "yeong",
+        "meaning": "eternal brightness"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name_korean": "민지",
+    "name_romanized": "Minji",
+    "gender": "female",
+    "creative": 7,
+    "warm": 9,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Bright sky and wisdom",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name_korean": "연서",
+    "name_romanized": "Yeonseo",
+    "gender": "female",
+    "creative": 6,
+    "warm": 7,
+    "urban": 5,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Lotus with clear grace",
+    "characters": [
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name_korean": "서우",
+    "name_romanized": "Seou",
+    "gender": "female",
+    "creative": 6,
+    "warm": 9,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Clear grace and universe",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name_korean": "아인",
+    "name_romanized": "Ain",
+    "gender": "female",
+    "creative": 6,
+    "warm": 9,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Elegant benevolence",
+    "characters": [
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      },
+      {
+        "char": "인",
+        "romanized": "in",
+        "meaning": "benevolence"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name_korean": "나은",
+    "name_romanized": "Naeun",
+    "gender": "female",
+    "creative": 6,
+    "warm": 7,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Graceful silver",
+    "characters": [
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name_korean": "서하",
+    "name_romanized": "Seoha",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 5,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Clear grace in summer warmth",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name_korean": "수연",
+    "name_romanized": "Suyeon",
+    "gender": "female",
+    "creative": 8,
+    "warm": 8,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Pure excellence like a lotus flower",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name_korean": "수민",
+    "name_romanized": "Sumin",
+    "gender": "female",
+    "creative": 7,
+    "warm": 9,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Pure excellence bright as the sky",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name_korean": "채윤",
+    "name_romanized": "Chaeyun",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Colorful harmonious brilliance",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name_korean": "서은",
+    "name_romanized": "Seoeun",
+    "gender": "female",
+    "creative": 8,
+    "warm": 7,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Clear grace and silver",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name_korean": "채아",
+    "name_romanized": "Chaea",
+    "gender": "female",
+    "creative": 6,
+    "warm": 5,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Colorful brilliance with elegant beauty",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name_korean": "시연",
+    "name_romanized": "Siyeon",
+    "gender": "female",
+    "creative": 7,
+    "warm": 7,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Poetry blooming like lotus",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name_korean": "서율",
+    "name_romanized": "Seoyul",
+    "gender": "female",
+    "creative": 6,
+    "warm": 9,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 5,
+    "meaning": "Clear harmonious rhythm",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name_korean": "나윤",
+    "name_romanized": "Nayun",
+    "gender": "female",
+    "creative": 7,
+    "warm": 9,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Graceful harmony",
+    "characters": [
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name_korean": "하연",
+    "name_romanized": "Hayeon",
+    "gender": "female",
+    "creative": 5,
+    "warm": 5,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 6,
+    "meaning": "Summer lotus flower",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name_korean": "지율",
+    "name_romanized": "Jiyul",
+    "gender": "female",
+    "creative": 6,
+    "warm": 5,
+    "urban": 8,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Wisdom in harmonious rhythm",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name_korean": "다연",
+    "name_romanized": "Dayeon",
+    "gender": "female",
+    "creative": 6,
+    "warm": 8,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 8,
+    "meaning": "Abundant lotus flowers",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name_korean": "이서",
+    "name_romanized": "Iseo",
+    "gender": "female",
+    "creative": 7,
+    "warm": 5,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Joyful and clear grace",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name_korean": "현서",
+    "name_romanized": "Hyeonseo",
+    "gender": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Wise grace",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name_korean": "다현",
+    "name_romanized": "Dahyeon",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Abundant wisdom",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name_korean": "유빈",
+    "name_romanized": "Yubin",
+    "gender": "female",
+    "creative": 4,
+    "warm": 8,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Gentle and refined elegance",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "빈",
+        "romanized": "bin",
+        "meaning": "refined elegance"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name_korean": "소은",
+    "name_romanized": "Soeun",
+    "gender": "female",
+    "creative": 7,
+    "warm": 6,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Pure silver grace",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name_korean": "서진",
+    "name_romanized": "Seojin",
+    "gender": "female",
+    "creative": 6,
+    "warm": 7,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 9,
+    "meaning": "Clear precious gem",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name_korean": "예지",
+    "name_romanized": "Yeji",
+    "gender": "female",
+    "creative": 6,
+    "warm": 6,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Beautiful wisdom",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name_korean": "사랑",
+    "name_romanized": "Sarang",
+    "gender": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Love that overflows from the heart",
+    "characters": [
+      {
+        "char": "사",
+        "romanized": "sa",
+        "meaning": "thoughtful love"
+      },
+      {
+        "char": "랑",
+        "romanized": "rang",
+        "meaning": "flowing love"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name_korean": "세아",
+    "name_romanized": "Sea",
+    "gender": "female",
+    "creative": 6,
+    "warm": 6,
+    "urban": 5,
+    "independent": 5,
+    "elegant": 5,
+    "meaning": "Worldly elegant beauty",
+    "characters": [
+      {
+        "char": "세",
+        "romanized": "se",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name_korean": "수현",
+    "name_romanized": "Suhyeon",
+    "gender": "female",
+    "creative": 7,
+    "warm": 8,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Pure excellence and wisdom",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name_korean": "나연",
+    "name_romanized": "Nayeon",
+    "gender": "female",
+    "creative": 7,
+    "warm": 6,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Graceful lotus flower",
+    "characters": [
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name_korean": "은채",
+    "name_romanized": "Eunchae",
+    "gender": "female",
+    "creative": 7,
+    "warm": 6,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Silver colorful brilliance",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name_korean": "지은",
+    "name_romanized": "Jieun",
+    "gender": "female",
+    "creative": 5,
+    "warm": 5,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Wisdom and grace",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name_korean": "다윤",
+    "name_romanized": "Dayun",
+    "gender": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 8,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Abundant harmony",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name_korean": "시현",
+    "name_romanized": "Sihyeon",
+    "gender": "female",
+    "creative": 8,
+    "warm": 6,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Poetry and wisdom",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name_korean": "예빈",
+    "name_romanized": "Yebin",
+    "gender": "female",
+    "creative": 7,
+    "warm": 5,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Beautiful and refined",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "빈",
+        "romanized": "bin",
+        "meaning": "refined elegance"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name_korean": "주하",
+    "name_romanized": "Juha",
+    "gender": "female",
+    "creative": 7,
+    "warm": 7,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Precious pearl in summer warmth",
+    "characters": [
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      },
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name_korean": "채린",
+    "name_romanized": "Chaerin",
+    "gender": "female",
+    "creative": 4,
+    "warm": 7,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 5,
+    "meaning": "Colorful jade beauty",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "린",
+        "romanized": "rin",
+        "meaning": "precious jade"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name_korean": "유하",
+    "name_romanized": "Yuha",
+    "gender": "female",
+    "creative": 7,
+    "warm": 9,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Gentle summer flow",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name_korean": "다온",
+    "name_romanized": "Daon",
+    "gender": "female",
+    "creative": 7,
+    "warm": 8,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Abundant warmth and gentleness",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "온",
+        "romanized": "on",
+        "meaning": "warmth"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name_korean": "민주",
+    "name_romanized": "Minju",
+    "gender": "female",
+    "creative": 5,
+    "warm": 7,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 4,
+    "meaning": "Bright sky and precious pearl",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name_korean": "지수",
+    "name_romanized": "Jisu",
+    "gender": "female",
+    "creative": 7,
+    "warm": 6,
+    "urban": 8,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Wisdom and pure excellence",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name_korean": "윤지",
+    "name_romanized": "Yunji",
+    "gender": "female",
+    "creative": 6,
+    "warm": 6,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Bright harmony and wisdom",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name_korean": "지현",
+    "name_romanized": "Jihyeon",
+    "gender": "female",
+    "creative": 7,
+    "warm": 5,
+    "urban": 5,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Wisdom and wise virtue",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name_korean": "소연",
+    "name_romanized": "Soyeon",
+    "gender": "female",
+    "creative": 6,
+    "warm": 5,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Pure lotus flower",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name_korean": "소민",
+    "name_romanized": "Somin",
+    "gender": "female",
+    "creative": 5,
+    "warm": 5,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Pure brightness",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name_korean": "소이",
+    "name_romanized": "Soi",
+    "gender": "female",
+    "creative": 9,
+    "warm": 8,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Pure joyful spirit",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name_korean": "하영",
+    "name_romanized": "Hayeong",
+    "gender": "female",
+    "creative": 7,
+    "warm": 7,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Summer warmth shining eternally",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "영",
+        "romanized": "yeong",
+        "meaning": "eternal brightness"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name_korean": "승아",
+    "name_romanized": "Seunga",
+    "gender": "female",
+    "creative": 5,
+    "warm": 6,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Rising elegant beauty",
+    "characters": [
+      {
+        "char": "승",
+        "romanized": "seung",
+        "meaning": "rising victory"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name_korean": "윤슬",
+    "name_romanized": "Yunseul",
+    "gender": "female",
+    "creative": 5,
+    "warm": 5,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Glistening water that shines brightly",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "슬",
+        "romanized": "seul",
+        "meaning": "glistening water"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name_korean": "리아",
+    "name_romanized": "Ria",
+    "gender": "female",
+    "creative": 5,
+    "warm": 5,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Pear blossom beauty",
+    "characters": [
+      {
+        "char": "리",
+        "romanized": "ri",
+        "meaning": "reason and beauty"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name_korean": "세은",
+    "name_romanized": "Seeun",
+    "gender": "female",
+    "creative": 5,
+    "warm": 5,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Worldly silver grace",
+    "characters": [
+      {
+        "char": "세",
+        "romanized": "se",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name_korean": "민아",
+    "name_romanized": "Mina",
+    "gender": "female",
+    "creative": 7,
+    "warm": 5,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Bright sky with elegant beauty",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name_korean": "혜원",
+    "name_romanized": "Hyewon",
+    "gender": "female",
+    "creative": 6,
+    "warm": 5,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 4,
+    "meaning": "Wise grace in a garden",
+    "characters": [
+      {
+        "char": "혜",
+        "romanized": "hye",
+        "meaning": "wise grace"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name_korean": "재이",
+    "name_romanized": "Jaei",
+    "gender": "female",
+    "creative": 6,
+    "warm": 8,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Talented joyful spirit",
+    "characters": [
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      },
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name_korean": "서희",
+    "name_romanized": "Seohui",
+    "gender": "female",
+    "creative": 7,
+    "warm": 4,
+    "urban": 5,
+    "independent": 6,
+    "elegant": 5,
+    "meaning": "Clear and joyful brightness",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "희",
+        "romanized": "hui",
+        "meaning": "bright joy"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name_korean": "아현",
+    "name_romanized": "Ahyeon",
+    "gender": "female",
+    "creative": 9,
+    "warm": 8,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Elegant wisdom",
+    "characters": [
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name_korean": "나현",
+    "name_romanized": "Nahyeon",
+    "gender": "female",
+    "creative": 6,
+    "warm": 8,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 4,
+    "meaning": "Graceful wisdom",
+    "characters": [
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name_korean": "아영",
+    "name_romanized": "Ayeong",
+    "gender": "female",
+    "creative": 6,
+    "warm": 6,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Elegant eternal brightness",
+    "characters": [
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      },
+      {
+        "char": "영",
+        "romanized": "yeong",
+        "meaning": "eternal brightness"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name_korean": "도연",
+    "name_romanized": "Doyeon",
+    "gender": "female",
+    "creative": 8,
+    "warm": 4,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Righteous lotus flower",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name_korean": "채이",
+    "name_romanized": "Chaei",
+    "gender": "female",
+    "creative": 5,
+    "warm": 4,
+    "urban": 3,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Colorful joyful brilliance",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name_korean": "규리",
+    "name_romanized": "Gyuri",
+    "gender": "female",
+    "creative": 7,
+    "warm": 7,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 4,
+    "meaning": "Star-bright jade",
+    "characters": [
+      {
+        "char": "규",
+        "romanized": "gyu",
+        "meaning": "bright star"
+      },
+      {
+        "char": "리",
+        "romanized": "ri",
+        "meaning": "reason and beauty"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name_korean": "연아",
+    "name_romanized": "Yeona",
+    "gender": "female",
+    "creative": 8,
+    "warm": 7,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Lotus flower with elegant beauty",
+    "characters": [
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name_korean": "민채",
+    "name_romanized": "Minchae",
+    "gender": "female",
+    "creative": 8,
+    "warm": 6,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Bright colorful brilliance",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name_korean": "가윤",
+    "name_romanized": "Gayun",
+    "gender": "female",
+    "creative": 5,
+    "warm": 4,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Beautiful harmony",
+    "characters": [
+      {
+        "char": "가",
+        "romanized": "ga",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name_korean": "시윤",
+    "name_romanized": "Siyun",
+    "gender": "female",
+    "creative": 7,
+    "warm": 6,
+    "urban": 4,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Poetry in harmonious rhythm",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name_korean": "봄",
+    "name_romanized": "Bom",
+    "gender": "female",
+    "creative": 8,
+    "warm": 7,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Spring that brings new life and renewal",
+    "characters": [
+      {
+        "char": "봄",
+        "romanized": "bom",
+        "meaning": "spring"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name_korean": "지연",
+    "name_romanized": "Jiyeon",
+    "gender": "female",
+    "creative": 6,
+    "warm": 8,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Wisdom and lotus flower",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name_korean": "태희",
+    "name_romanized": "Taehui",
+    "gender": "female",
+    "creative": 9,
+    "warm": 5,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Great peaceful bright joy",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "희",
+        "romanized": "hui",
+        "meaning": "bright joy"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name_korean": "주은",
+    "name_romanized": "Jueun",
+    "gender": "female",
+    "creative": 6,
+    "warm": 7,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 6,
+    "meaning": "Precious pearl and silver grace",
+    "characters": [
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name_korean": "설아",
+    "name_romanized": "Seola",
+    "gender": "female",
+    "creative": 6,
+    "warm": 8,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Snow-white elegant beauty",
+    "characters": [
+      {
+        "char": "설",
+        "romanized": "seol",
+        "meaning": "snow white"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name_korean": "예림",
+    "name_romanized": "Yerim",
+    "gender": "female",
+    "creative": 9,
+    "warm": 6,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Beautiful art in a forest",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "림",
+        "romanized": "rim",
+        "meaning": "forest"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name_korean": "윤하",
+    "name_romanized": "Yunha",
+    "gender": "female",
+    "creative": 9,
+    "warm": 6,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 4,
+    "meaning": "Bright harmony in summer warmth",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name_korean": "유정",
+    "name_romanized": "Yujeong",
+    "gender": "female",
+    "creative": 6,
+    "warm": 5,
+    "urban": 3,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Gentle stillness",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "정",
+        "romanized": "jeong",
+        "meaning": "still purity"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name_korean": "정원",
+    "name_romanized": "Jeongwon",
+    "gender": "female",
+    "creative": 8,
+    "warm": 4,
+    "urban": 3,
+    "independent": 6,
+    "elegant": 4,
+    "meaning": "Pure and still garden wish",
+    "characters": [
+      {
+        "char": "정",
+        "romanized": "jeong",
+        "meaning": "still purity"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name_korean": "로아",
+    "name_romanized": "Roa",
+    "gender": "female",
+    "creative": 10,
+    "warm": 6,
+    "urban": 3,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Path to elegant beauty",
+    "characters": [
+      {
+        "char": "로",
+        "romanized": "ro",
+        "meaning": "path"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name_korean": "라희",
+    "name_romanized": "Rahui",
+    "gender": "female",
+    "creative": 8,
+    "warm": 6,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Joyful bright happiness",
+    "characters": [
+      {
+        "char": "라",
+        "romanized": "ra",
+        "meaning": "joyful"
+      },
+      {
+        "char": "희",
+        "romanized": "hui",
+        "meaning": "bright joy"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name_korean": "소현",
+    "name_romanized": "Sohyeon",
+    "gender": "female",
+    "creative": 9,
+    "warm": 7,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Pure wisdom",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name_korean": "보민",
+    "name_romanized": "Bomin",
+    "gender": "female",
+    "creative": 8,
+    "warm": 5,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Precious bright treasure",
+    "characters": [
+      {
+        "char": "보",
+        "romanized": "bo",
+        "meaning": "treasure"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name_korean": "세연",
+    "name_romanized": "Seyeon",
+    "gender": "female",
+    "creative": 8,
+    "warm": 5,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Worldly lotus flower",
+    "characters": [
+      {
+        "char": "세",
+        "romanized": "se",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name_korean": "수진",
+    "name_romanized": "Sujin",
+    "gender": "female",
+    "creative": 10,
+    "warm": 7,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Pure precious gem",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name_korean": "하늘",
+    "name_romanized": "Haneul",
+    "gender": "female",
+    "creative": 8,
+    "warm": 6,
+    "urban": 6,
+    "independent": 10,
+    "elegant": 4,
+    "meaning": "Vast sky that embraces everything",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "늘",
+        "romanized": "neul",
+        "meaning": "always"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name_korean": "민정",
+    "name_romanized": "Minjeong",
+    "gender": "female",
+    "creative": 8,
+    "warm": 7,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Bright stillness",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "정",
+        "romanized": "jeong",
+        "meaning": "still purity"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name_korean": "현지",
+    "name_romanized": "Hyeonji",
+    "gender": "female",
+    "creative": 7,
+    "warm": 7,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Wise and knowing",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name_korean": "태리",
+    "name_romanized": "Taeri",
+    "gender": "female",
+    "creative": 9,
+    "warm": 6,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Great jade beauty",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "리",
+        "romanized": "ri",
+        "meaning": "reason and beauty"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name_korean": "지효",
+    "name_romanized": "Jihyo",
+    "gender": "female",
+    "creative": 8,
+    "warm": 5,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Wisdom and devotion",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "효",
+        "romanized": "hyo",
+        "meaning": "devotion"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name_korean": "가현",
+    "name_romanized": "Gahyeon",
+    "gender": "female",
+    "creative": 6,
+    "warm": 6,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 7,
+    "meaning": "Beautiful wisdom",
+    "characters": [
+      {
+        "char": "가",
+        "romanized": "ga",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name_korean": "나경",
+    "name_romanized": "Nagyeong",
+    "gender": "female",
+    "creative": 7,
+    "warm": 4,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Graceful beautiful scenery",
+    "characters": [
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      },
+      {
+        "char": "경",
+        "romanized": "gyeong",
+        "meaning": "beautiful scenery"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name_korean": "하나",
+    "name_romanized": "Hana",
+    "gender": "female",
+    "creative": 9,
+    "warm": 5,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "One beautiful summer",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name_korean": "가온",
+    "name_romanized": "Gaon",
+    "gender": "female",
+    "creative": 6,
+    "warm": 6,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Beautiful warmth at the center",
+    "characters": [
+      {
+        "char": "가",
+        "romanized": "ga",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "온",
+        "romanized": "on",
+        "meaning": "warmth"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name_korean": "민경",
+    "name_romanized": "Mingyeong",
+    "gender": "female",
+    "creative": 6,
+    "warm": 5,
+    "urban": 3,
+    "independent": 6,
+    "elegant": 5,
+    "meaning": "Bright beautiful scenery",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "경",
+        "romanized": "gyeong",
+        "meaning": "beautiful scenery"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name_korean": "이현",
+    "name_romanized": "Ihyeon",
+    "gender": "female",
+    "creative": 9,
+    "warm": 6,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Joyful wisdom",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name_korean": "한별",
+    "name_romanized": "Hanbyeol",
+    "gender": "female",
+    "creative": 7,
+    "warm": 5,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "One bright shining star",
+    "characters": [
+      {
+        "char": "한",
+        "romanized": "han",
+        "meaning": "vast and noble"
+      },
+      {
+        "char": "별",
+        "romanized": "byeol",
+        "meaning": "star"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name_korean": "가연",
+    "name_romanized": "Gayeon",
+    "gender": "female",
+    "creative": 8,
+    "warm": 6,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 4,
+    "meaning": "Beautiful lotus flower",
+    "characters": [
+      {
+        "char": "가",
+        "romanized": "ga",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name_korean": "은지",
+    "name_romanized": "Eunji",
+    "gender": "female",
+    "creative": 7,
+    "warm": 7,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 3,
+    "meaning": "Silver wisdom",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name_korean": "태린",
+    "name_romanized": "Taerin",
+    "gender": "female",
+    "creative": 8,
+    "warm": 5,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Great jade beauty",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "린",
+        "romanized": "rin",
+        "meaning": "precious jade"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name_korean": "소희",
+    "name_romanized": "Sohui",
+    "gender": "female",
+    "creative": 7,
+    "warm": 5,
+    "urban": 3,
+    "independent": 6,
+    "elegant": 4,
+    "meaning": "Pure bright joy",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "희",
+        "romanized": "hui",
+        "meaning": "bright joy"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name_korean": "단아",
+    "name_romanized": "Dana",
+    "gender": "female",
+    "creative": 7,
+    "warm": 5,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 4,
+    "meaning": "Upright and elegant beauty",
+    "characters": [
+      {
+        "char": "단",
+        "romanized": "dan",
+        "meaning": "upright honesty"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name_korean": "예슬",
+    "name_romanized": "Yeseul",
+    "gender": "female",
+    "creative": 10,
+    "warm": 3,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 3,
+    "meaning": "Beautiful glistening art",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "슬",
+        "romanized": "seul",
+        "meaning": "glistening water"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name_korean": "도아",
+    "name_romanized": "Doa",
+    "gender": "female",
+    "creative": 9,
+    "warm": 4,
+    "urban": 3,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Righteous elegant beauty",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name_korean": "채연",
+    "name_romanized": "Chaeyeon",
+    "gender": "female",
+    "creative": 9,
+    "warm": 7,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Colorful lotus flower",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name_korean": "이나",
+    "name_romanized": "Ina",
+    "gender": "female",
+    "creative": 7,
+    "warm": 6,
+    "urban": 2,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Joyful graceful beauty",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name_korean": "하랑",
+    "name_romanized": "Harang",
+    "gender": "female",
+    "creative": 8,
+    "warm": 5,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Summer bright wave",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "랑",
+        "romanized": "rang",
+        "meaning": "flowing love"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name_korean": "하진",
+    "name_romanized": "Hajin",
+    "gender": "female",
+    "creative": 10,
+    "warm": 6,
+    "urban": 2,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Summer precious gem",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name_korean": "은솔",
+    "name_romanized": "Eunsol",
+    "gender": "female",
+    "creative": 7,
+    "warm": 4,
+    "urban": 3,
+    "independent": 7,
+    "elegant": 3,
+    "meaning": "Silver pine tree",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "솔",
+        "romanized": "sol",
+        "meaning": "pine strength"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "name_korean": "채민",
+    "name_romanized": "Chaemin",
+    "gender": "female",
+    "creative": 8,
+    "warm": 5,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 3,
+    "meaning": "Colorful brightness",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name_korean": "유리",
+    "name_romanized": "Yuri",
+    "gender": "female",
+    "creative": 10,
+    "warm": 3,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 4,
+    "meaning": "Gentle jade beauty",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "리",
+        "romanized": "ri",
+        "meaning": "reason and beauty"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name_korean": "현아",
+    "name_romanized": "Hyeona",
+    "gender": "female",
+    "creative": 8,
+    "warm": 5,
+    "urban": 6,
+    "independent": 10,
+    "elegant": 4,
+    "meaning": "Wise elegant beauty",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name_korean": "은유",
+    "name_romanized": "Eunyu",
+    "gender": "female",
+    "creative": 10,
+    "warm": 6,
+    "urban": 2,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Silver gentle flow",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name_korean": "다솜",
+    "name_romanized": "Dasom",
+    "gender": "female",
+    "creative": 9,
+    "warm": 6,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 6,
+    "meaning": "Abundant warmth",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "솜",
+        "romanized": "som",
+        "meaning": "beautiful"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name_korean": "이솔",
+    "name_romanized": "Isol",
+    "gender": "female",
+    "creative": 8,
+    "warm": 3,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Joyful pine tree",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "솔",
+        "romanized": "sol",
+        "meaning": "pine strength"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name_korean": "유림",
+    "name_romanized": "Yurim",
+    "gender": "female",
+    "creative": 10,
+    "warm": 5,
+    "urban": 4,
+    "independent": 10,
+    "elegant": 4,
+    "meaning": "Gentle forest",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "림",
+        "romanized": "rim",
+        "meaning": "forest"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name_korean": "효주",
+    "name_romanized": "Hyoju",
+    "gender": "female",
+    "creative": 9,
+    "warm": 2,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Devoted precious pearl",
+    "characters": [
+      {
+        "char": "효",
+        "romanized": "hyo",
+        "meaning": "devotion"
+      },
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name_korean": "예주",
+    "name_romanized": "Yeju",
+    "gender": "female",
+    "creative": 8,
+    "warm": 4,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Beautiful precious pearl",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name_korean": "다빈",
+    "name_romanized": "Dabin",
+    "gender": "female",
+    "creative": 10,
+    "warm": 3,
+    "urban": 6,
+    "independent": 10,
+    "elegant": 3,
+    "meaning": "Abundant refined elegance",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "빈",
+        "romanized": "bin",
+        "meaning": "refined elegance"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name_korean": "다희",
+    "name_romanized": "Dahui",
+    "gender": "female",
+    "creative": 10,
+    "warm": 6,
+    "urban": 6,
+    "independent": 10,
+    "elegant": 4,
+    "meaning": "Abundant bright joy",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "희",
+        "romanized": "hui",
+        "meaning": "bright joy"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name_korean": "유민",
+    "name_romanized": "Yumin",
+    "gender": "female",
+    "creative": 7,
+    "warm": 4,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Gentle brightness",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name_korean": "태연",
+    "name_romanized": "Taeyeon",
+    "gender": "female",
+    "creative": 10,
+    "warm": 3,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Greatly peaceful and serene",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name_korean": "지온",
+    "name_romanized": "Jion",
+    "gender": "female",
+    "creative": 7,
+    "warm": 5,
+    "urban": 6,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Wisdom and warm gentleness",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "온",
+        "romanized": "on",
+        "meaning": "warmth"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name_korean": "서준",
+    "name_romanized": "Seojun",
+    "gender": "male",
+    "creative": 6,
+    "warm": 7,
+    "urban": 9,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Clear grace and outstanding talent",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name_korean": "민준",
+    "name_romanized": "Minjun",
+    "gender": "male",
+    "creative": 4,
+    "warm": 9,
+    "urban": 6,
+    "independent": 4,
+    "elegant": 7,
+    "meaning": "Bright sky and outstanding talent",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name_korean": "도윤",
+    "name_romanized": "Doyun",
+    "gender": "male",
+    "creative": 3,
+    "warm": 10,
+    "urban": 9,
+    "independent": 4,
+    "elegant": 9,
+    "meaning": "Righteous bright harmony",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name_korean": "시우",
+    "name_romanized": "Siu",
+    "gender": "male",
+    "creative": 4,
+    "warm": 8,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 6,
+    "meaning": "Poetry and the universe",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name_korean": "하준",
+    "name_romanized": "Hajun",
+    "gender": "male",
+    "creative": 4,
+    "warm": 9,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 10,
+    "meaning": "Summer outstanding talent",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name_korean": "예준",
+    "name_romanized": "Yejun",
+    "gender": "male",
+    "creative": 5,
+    "warm": 9,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Beautiful outstanding talent",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name_korean": "지호",
+    "name_romanized": "Jiho",
+    "gender": "male",
+    "creative": 3,
+    "warm": 9,
+    "urban": 6,
+    "independent": 4,
+    "elegant": 9,
+    "meaning": "Wisdom vast as a lake",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name_korean": "주원",
+    "name_romanized": "Juwon",
+    "gender": "male",
+    "creative": 3,
+    "warm": 9,
+    "urban": 10,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Precious pearl and garden wish",
+    "characters": [
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name_korean": "도현",
+    "name_romanized": "Dohyeon",
+    "gender": "male",
+    "creative": 5,
+    "warm": 10,
+    "urban": 10,
+    "independent": 4,
+    "elegant": 8,
+    "meaning": "Righteous and wise",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name_korean": "지후",
+    "name_romanized": "Jihu",
+    "gender": "male",
+    "creative": 6,
+    "warm": 9,
+    "urban": 6,
+    "independent": 3,
+    "elegant": 9,
+    "meaning": "Wisdom and generous spirit",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "후",
+        "romanized": "hu",
+        "meaning": "generous spirit"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name_korean": "준우",
+    "name_romanized": "Junu",
+    "gender": "male",
+    "creative": 5,
+    "warm": 8,
+    "urban": 10,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Outstanding talent and the universe",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name_korean": "준서",
+    "name_romanized": "Junseo",
+    "gender": "male",
+    "creative": 6,
+    "warm": 10,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Outstanding grace",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name_korean": "우진",
+    "name_romanized": "Ujin",
+    "gender": "male",
+    "creative": 4,
+    "warm": 10,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Universe and precious gem",
+    "characters": [
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name_korean": "건우",
+    "name_romanized": "Geonu",
+    "gender": "male",
+    "creative": 4,
+    "warm": 8,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 9,
+    "meaning": "Strong healthy universe",
+    "characters": [
+      {
+        "char": "건",
+        "romanized": "geon",
+        "meaning": "strong and healthy"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name_korean": "현우",
+    "name_romanized": "Hyeonu",
+    "gender": "male",
+    "creative": 6,
+    "warm": 7,
+    "urban": 5,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Wise universe",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name_korean": "선우",
+    "name_romanized": "Seonu",
+    "gender": "male",
+    "creative": 5,
+    "warm": 7,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 9,
+    "meaning": "Goodness and the universe",
+    "characters": [
+      {
+        "char": "선",
+        "romanized": "seon",
+        "meaning": "goodness and virtue"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name_korean": "지훈",
+    "name_romanized": "Jihun",
+    "gender": "male",
+    "creative": 5,
+    "warm": 9,
+    "urban": 5,
+    "independent": 4,
+    "elegant": 7,
+    "meaning": "Wisdom and noble training",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "훈",
+        "romanized": "hun",
+        "meaning": "noble training"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name_korean": "유준",
+    "name_romanized": "Yujun",
+    "gender": "male",
+    "creative": 6,
+    "warm": 8,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Gentle and outstanding talent",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name_korean": "은우",
+    "name_romanized": "Eunu",
+    "gender": "male",
+    "creative": 5,
+    "warm": 9,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Silver universe",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name_korean": "연우",
+    "name_romanized": "Yeonu",
+    "gender": "male",
+    "creative": 5,
+    "warm": 7,
+    "urban": 8,
+    "independent": 4,
+    "elegant": 7,
+    "meaning": "Lotus flower and the universe",
+    "characters": [
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name_korean": "이준",
+    "name_romanized": "Ijun",
+    "gender": "male",
+    "creative": 6,
+    "warm": 8,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Joyful and outstanding talent",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name_korean": "서진",
+    "name_romanized": "Seojin",
+    "gender": "male",
+    "creative": 4,
+    "warm": 7,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Clear precious gem",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name_korean": "시윤",
+    "name_romanized": "Siyun",
+    "gender": "male",
+    "creative": 4,
+    "warm": 8,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Poetry in harmonious rhythm",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name_korean": "민재",
+    "name_romanized": "Minjae",
+    "gender": "male",
+    "creative": 6,
+    "warm": 8,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Bright and talented",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name_korean": "정우",
+    "name_romanized": "Jeongu",
+    "gender": "male",
+    "creative": 6,
+    "warm": 9,
+    "urban": 5,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Pure universe",
+    "characters": [
+      {
+        "char": "정",
+        "romanized": "jeong",
+        "meaning": "still purity"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name_korean": "현준",
+    "name_romanized": "Hyeonjun",
+    "gender": "male",
+    "creative": 6,
+    "warm": 9,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Wise and outstanding talent",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name_korean": "윤우",
+    "name_romanized": "Yunu",
+    "gender": "male",
+    "creative": 3,
+    "warm": 7,
+    "urban": 5,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Bright harmony and universe",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name_korean": "수호",
+    "name_romanized": "Suho",
+    "gender": "male",
+    "creative": 5,
+    "warm": 9,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 9,
+    "meaning": "Pure vast lake",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "name_korean": "지우",
+    "name_romanized": "Jiu",
+    "gender": "male",
+    "creative": 7,
+    "warm": 8,
+    "urban": 5,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Wisdom that fills the vast universe",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "name_korean": "유찬",
+    "name_romanized": "Yuchan",
+    "gender": "male",
+    "creative": 4,
+    "warm": 9,
+    "urban": 9,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Gentle brilliance",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "찬",
+        "romanized": "chan",
+        "meaning": "brilliant radiance"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "name_korean": "승우",
+    "name_romanized": "Seungu",
+    "gender": "male",
+    "creative": 4,
+    "warm": 8,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Rising universe",
+    "characters": [
+      {
+        "char": "승",
+        "romanized": "seung",
+        "meaning": "rising victory"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "name_korean": "이안",
+    "name_romanized": "Ian",
+    "gender": "male",
+    "creative": 7,
+    "warm": 9,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Joyful peaceful serenity",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "안",
+        "romanized": "an",
+        "meaning": "peaceful serenity"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "name_korean": "승현",
+    "name_romanized": "Seunghyeon",
+    "gender": "male",
+    "creative": 5,
+    "warm": 10,
+    "urban": 5,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Rising wisdom",
+    "characters": [
+      {
+        "char": "승",
+        "romanized": "seung",
+        "meaning": "rising victory"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name_korean": "지환",
+    "name_romanized": "Jihwan",
+    "gender": "male",
+    "creative": 8,
+    "warm": 10,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Wisdom bright and joyful",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "환",
+        "romanized": "hwan",
+        "meaning": "bright joy"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "name_korean": "준혁",
+    "name_romanized": "Junhyeok",
+    "gender": "male",
+    "creative": 7,
+    "warm": 6,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Outstanding brilliant transformation",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "혁",
+        "romanized": "hyeok",
+        "meaning": "brilliant change"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "name_korean": "시후",
+    "name_romanized": "Sihu",
+    "gender": "male",
+    "creative": 5,
+    "warm": 9,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Poetry and generous spirit",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "후",
+        "romanized": "hu",
+        "meaning": "generous spirit"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "name_korean": "진우",
+    "name_romanized": "Jinu",
+    "gender": "male",
+    "creative": 6,
+    "warm": 7,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Precious and vast universe",
+    "characters": [
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "name_korean": "승민",
+    "name_romanized": "Seungmin",
+    "gender": "male",
+    "creative": 4,
+    "warm": 5,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Rising brightness",
+    "characters": [
+      {
+        "char": "승",
+        "romanized": "seung",
+        "meaning": "rising victory"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name_korean": "민성",
+    "name_romanized": "Minseong",
+    "gender": "male",
+    "creative": 4,
+    "warm": 6,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 5,
+    "meaning": "Bright sincerity",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "name_korean": "수현",
+    "name_romanized": "Suhyeon",
+    "gender": "male",
+    "creative": 5,
+    "warm": 7,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Pure excellence and wisdom",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name_korean": "지원",
+    "name_romanized": "Jiwon",
+    "gender": "male",
+    "creative": 8,
+    "warm": 8,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Wisdom flowering in a garden of wishes",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name_korean": "우주",
+    "name_romanized": "Uju",
+    "gender": "male",
+    "creative": 8,
+    "warm": 7,
+    "urban": 7,
+    "independent": 4,
+    "elegant": 6,
+    "meaning": "Vast universe filled with wonder",
+    "characters": [
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      },
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name_korean": "준영",
+    "name_romanized": "Junyeong",
+    "gender": "male",
+    "creative": 4,
+    "warm": 6,
+    "urban": 7,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Outstanding eternal brightness",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "영",
+        "romanized": "yeong",
+        "meaning": "eternal brightness"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name_korean": "은호",
+    "name_romanized": "Eunho",
+    "gender": "male",
+    "creative": 6,
+    "warm": 8,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Silver vast lake",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name_korean": "시현",
+    "name_romanized": "Sihyeon",
+    "gender": "male",
+    "creative": 4,
+    "warm": 6,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Poetry and wisdom",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "name_korean": "재윤",
+    "name_romanized": "Jaeyun",
+    "gender": "male",
+    "creative": 5,
+    "warm": 6,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Talented harmony",
+    "characters": [
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "name_korean": "지한",
+    "name_romanized": "Jihan",
+    "gender": "male",
+    "creative": 6,
+    "warm": 5,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Wisdom vast as the sky",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "한",
+        "romanized": "han",
+        "meaning": "vast and noble"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "name_korean": "태윤",
+    "name_romanized": "Taeyun",
+    "gender": "male",
+    "creative": 4,
+    "warm": 5,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Great bright harmony",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "name_korean": "한결",
+    "name_romanized": "Hangyeol",
+    "gender": "male",
+    "creative": 6,
+    "warm": 7,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "One consistent and noble spirit",
+    "characters": [
+      {
+        "char": "한",
+        "romanized": "han",
+        "meaning": "vast and noble"
+      },
+      {
+        "char": "결",
+        "romanized": "gyeol",
+        "meaning": "clarity"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "name_korean": "지안",
+    "name_romanized": "Jian",
+    "gender": "male",
+    "creative": 5,
+    "warm": 6,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Wisdom and peaceful serenity",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "안",
+        "romanized": "an",
+        "meaning": "peaceful serenity"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "name_korean": "시온",
+    "name_romanized": "Sion",
+    "gender": "male",
+    "creative": 5,
+    "warm": 7,
+    "urban": 8,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Poetry and warm gentleness",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "온",
+        "romanized": "on",
+        "meaning": "warmth"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "name_korean": "서우",
+    "name_romanized": "Seou",
+    "gender": "male",
+    "creative": 5,
+    "warm": 6,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Clear grace and universe",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "name_korean": "윤호",
+    "name_romanized": "Yunho",
+    "gender": "male",
+    "creative": 6,
+    "warm": 7,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Bright vast lake",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "name_korean": "이현",
+    "name_romanized": "Ihyeon",
+    "gender": "male",
+    "creative": 8,
+    "warm": 7,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 9,
+    "meaning": "Joyful wisdom",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "name_korean": "은찬",
+    "name_romanized": "Eunchan",
+    "gender": "male",
+    "creative": 7,
+    "warm": 9,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 8,
+    "meaning": "Silver brilliance",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "찬",
+        "romanized": "chan",
+        "meaning": "brilliant radiance"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "name_korean": "시원",
+    "name_romanized": "Siwon",
+    "gender": "male",
+    "creative": 8,
+    "warm": 7,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Poetry and garden wish",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "name_korean": "하진",
+    "name_romanized": "Hajin",
+    "gender": "male",
+    "creative": 6,
+    "warm": 8,
+    "urban": 4,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Summer precious gem",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "name_korean": "민우",
+    "name_romanized": "Minu",
+    "gender": "male",
+    "creative": 7,
+    "warm": 6,
+    "urban": 4,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Bright universe",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "name_korean": "동현",
+    "name_romanized": "Donghyeon",
+    "gender": "male",
+    "creative": 7,
+    "warm": 4,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 4,
+    "meaning": "Eastern wisdom",
+    "characters": [
+      {
+        "char": "동",
+        "romanized": "dong",
+        "meaning": "eastern light"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "name_korean": "도하",
+    "name_romanized": "Doha",
+    "gender": "male",
+    "creative": 8,
+    "warm": 8,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Righteous summer warmth",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "name_korean": "우빈",
+    "name_romanized": "Ubin",
+    "gender": "male",
+    "creative": 8,
+    "warm": 6,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Universe and refined elegance",
+    "characters": [
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      },
+      {
+        "char": "빈",
+        "romanized": "bin",
+        "meaning": "refined elegance"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "name_korean": "로운",
+    "name_romanized": "Roun",
+    "gender": "male",
+    "creative": 6,
+    "warm": 6,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Path of good fortune",
+    "characters": [
+      {
+        "char": "로",
+        "romanized": "ro",
+        "meaning": "path"
+      },
+      {
+        "char": "운",
+        "romanized": "un",
+        "meaning": "fortunate cloud"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "name_korean": "재원",
+    "name_romanized": "Jaewon",
+    "gender": "male",
+    "creative": 8,
+    "warm": 6,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Talented garden wish",
+    "characters": [
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "name_korean": "민규",
+    "name_romanized": "Mingyu",
+    "gender": "male",
+    "creative": 6,
+    "warm": 8,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Bright star",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "규",
+        "romanized": "gyu",
+        "meaning": "bright star"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "name_korean": "율",
+    "name_romanized": "Yul",
+    "gender": "male",
+    "creative": 7,
+    "warm": 5,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Harmonious rhythm that flows naturally",
+    "characters": [
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "name_korean": "민찬",
+    "name_romanized": "Minchan",
+    "gender": "male",
+    "creative": 5,
+    "warm": 5,
+    "urban": 4,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Bright brilliance",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "찬",
+        "romanized": "chan",
+        "meaning": "brilliant radiance"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "name_korean": "재민",
+    "name_romanized": "Jaemin",
+    "gender": "male",
+    "creative": 8,
+    "warm": 5,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 6,
+    "meaning": "Talented brightness",
+    "characters": [
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "name_korean": "하율",
+    "name_romanized": "Hayul",
+    "gender": "male",
+    "creative": 8,
+    "warm": 4,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Summer harmonious rhythm",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "name_korean": "윤재",
+    "name_romanized": "Yunjae",
+    "gender": "male",
+    "creative": 6,
+    "warm": 6,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Bright talent",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "name_korean": "지율",
+    "name_romanized": "Jiyul",
+    "gender": "male",
+    "creative": 7,
+    "warm": 7,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Wisdom in harmonious rhythm",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "name_korean": "태오",
+    "name_romanized": "Taeo",
+    "gender": "male",
+    "creative": 8,
+    "warm": 5,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Great dawn",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "오",
+        "romanized": "o",
+        "meaning": "dawn"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "name_korean": "준호",
+    "name_romanized": "Junho",
+    "gender": "male",
+    "creative": 5,
+    "warm": 8,
+    "urban": 3,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Outstanding vast lake",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "name_korean": "준",
+    "name_romanized": "Jun",
+    "gender": "male",
+    "creative": 9,
+    "warm": 8,
+    "urban": 3,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Outstanding and talented spirit",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "name_korean": "하민",
+    "name_romanized": "Hamin",
+    "gender": "male",
+    "creative": 7,
+    "warm": 7,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Summer brightness",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "name_korean": "지민",
+    "name_romanized": "Jimin",
+    "gender": "male",
+    "creative": 8,
+    "warm": 7,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 4,
+    "meaning": "Wisdom brightness",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "name_korean": "민호",
+    "name_romanized": "Minho",
+    "gender": "male",
+    "creative": 8,
+    "warm": 5,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 4,
+    "meaning": "Bright vast lake",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "name_korean": "성민",
+    "name_romanized": "Seongmin",
+    "gender": "male",
+    "creative": 7,
+    "warm": 6,
+    "urban": 4,
+    "independent": 10,
+    "elegant": 6,
+    "meaning": "Sincere brightness",
+    "characters": [
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "name_korean": "승준",
+    "name_romanized": "Seungjun",
+    "gender": "male",
+    "creative": 8,
+    "warm": 6,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Rising outstanding talent",
+    "characters": [
+      {
+        "char": "승",
+        "romanized": "seung",
+        "meaning": "rising victory"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "name_korean": "이든",
+    "name_romanized": "Ideun",
+    "gender": "male",
+    "creative": 8,
+    "warm": 3,
+    "urban": 6,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Joyful abundant spirit",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "든",
+        "romanized": "deun",
+        "meaning": "abundant"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "name_korean": "재현",
+    "name_romanized": "Jaehyeon",
+    "gender": "male",
+    "creative": 7,
+    "warm": 4,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Talented wisdom",
+    "characters": [
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "name_korean": "태민",
+    "name_romanized": "Taemin",
+    "gender": "male",
+    "creative": 8,
+    "warm": 5,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Great brightness",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "name_korean": "현서",
+    "name_romanized": "Hyeonseo",
+    "gender": "male",
+    "creative": 8,
+    "warm": 6,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Wise grace",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "name_korean": "지성",
+    "name_romanized": "Jiseong",
+    "gender": "male",
+    "creative": 8,
+    "warm": 4,
+    "urban": 7,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Wisdom and sincerity",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "name_korean": "하람",
+    "name_romanized": "Haram",
+    "gender": "male",
+    "creative": 10,
+    "warm": 5,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 4,
+    "meaning": "Summer blue sky",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "람",
+        "romanized": "ram",
+        "meaning": "blue sky"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "name_korean": "성현",
+    "name_romanized": "Seonghyeon",
+    "gender": "male",
+    "creative": 8,
+    "warm": 4,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 4,
+    "meaning": "Sincere wisdom",
+    "characters": [
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "name_korean": "예성",
+    "name_romanized": "Yeseong",
+    "gender": "male",
+    "creative": 8,
+    "warm": 7,
+    "urban": 4,
+    "independent": 6,
+    "elegant": 4,
+    "meaning": "Beautiful sincerity",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "name_korean": "태현",
+    "name_romanized": "Taehyeon",
+    "gender": "male",
+    "creative": 8,
+    "warm": 6,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Great wisdom",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "name_korean": "규민",
+    "name_romanized": "Gyumin",
+    "gender": "male",
+    "creative": 10,
+    "warm": 6,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 8,
+    "meaning": "Star brightness",
+    "characters": [
+      {
+        "char": "규",
+        "romanized": "gyu",
+        "meaning": "bright star"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "name_korean": "다온",
+    "name_romanized": "Daon",
+    "gender": "male",
+    "creative": 7,
+    "warm": 4,
+    "urban": 7,
+    "independent": 10,
+    "elegant": 7,
+    "meaning": "Abundant warmth and gentleness",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "온",
+        "romanized": "on",
+        "meaning": "warmth"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "name_korean": "윤성",
+    "name_romanized": "Yunseong",
+    "gender": "male",
+    "creative": 8,
+    "warm": 6,
+    "urban": 7,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Bright sincerity",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "name_korean": "태양",
+    "name_romanized": "Taeyang",
+    "gender": "male",
+    "creative": 6,
+    "warm": 5,
+    "urban": 3,
+    "independent": 6,
+    "elegant": 5,
+    "meaning": "Great sun with boundless energy",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "양",
+        "romanized": "yang",
+        "meaning": "sun energy"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "name_korean": "성준",
+    "name_romanized": "Seongjun",
+    "gender": "male",
+    "creative": 10,
+    "warm": 4,
+    "urban": 6,
+    "independent": 10,
+    "elegant": 6,
+    "meaning": "Sincere outstanding talent",
+    "characters": [
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "name_korean": "주안",
+    "name_romanized": "Juan",
+    "gender": "male",
+    "creative": 7,
+    "warm": 4,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 3,
+    "meaning": "Precious pearl and peaceful serenity",
+    "characters": [
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      },
+      {
+        "char": "안",
+        "romanized": "an",
+        "meaning": "peaceful serenity"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "name_korean": "도훈",
+    "name_romanized": "Dohun",
+    "gender": "male",
+    "creative": 8,
+    "warm": 5,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 3,
+    "meaning": "Righteous noble training",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "훈",
+        "romanized": "hun",
+        "meaning": "noble training"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "name_korean": "정민",
+    "name_romanized": "Jeongmin",
+    "gender": "male",
+    "creative": 7,
+    "warm": 4,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Pure brightness",
+    "characters": [
+      {
+        "char": "정",
+        "romanized": "jeong",
+        "meaning": "still purity"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "name_korean": "민혁",
+    "name_romanized": "Minhyeok",
+    "gender": "male",
+    "creative": 8,
+    "warm": 3,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Bright brilliant transformation",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "혁",
+        "romanized": "hyeok",
+        "meaning": "brilliant change"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "name_korean": "지오",
+    "name_romanized": "Jio",
+    "gender": "male",
+    "creative": 9,
+    "warm": 5,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Wisdom at dawn",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "오",
+        "romanized": "o",
+        "meaning": "dawn"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "name_korean": "주호",
+    "name_romanized": "Juho",
+    "gender": "male",
+    "creative": 7,
+    "warm": 7,
+    "urban": 4,
+    "independent": 10,
+    "elegant": 6,
+    "meaning": "Precious pearl vast lake",
+    "characters": [
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "name_korean": "도영",
+    "name_romanized": "Doyeong",
+    "gender": "male",
+    "creative": 8,
+    "warm": 6,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 4,
+    "meaning": "Righteous eternal brightness",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "영",
+        "romanized": "yeong",
+        "meaning": "eternal brightness"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "name_korean": "은성",
+    "name_romanized": "Eunseong",
+    "gender": "male",
+    "creative": 8,
+    "warm": 4,
+    "urban": 2,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Silver sincerity",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "name_korean": "예찬",
+    "name_romanized": "Yechan",
+    "gender": "male",
+    "creative": 8,
+    "warm": 5,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 3,
+    "meaning": "Beautiful brilliance",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "찬",
+        "romanized": "chan",
+        "meaning": "brilliant radiance"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "name_korean": "준희",
+    "name_romanized": "Junhui",
+    "gender": "male",
+    "creative": 9,
+    "warm": 5,
+    "urban": 2,
+    "independent": 10,
+    "elegant": 3,
+    "meaning": "Outstanding bright joy",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "희",
+        "romanized": "hui",
+        "meaning": "bright joy"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "name_korean": "건",
+    "name_romanized": "Geon",
+    "gender": "male",
+    "creative": 8,
+    "warm": 4,
+    "urban": 6,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Strong healthy and heavenly spirit",
+    "characters": [
+      {
+        "char": "건",
+        "romanized": "geon",
+        "meaning": "strong and healthy"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "name_korean": "준수",
+    "name_romanized": "Junsu",
+    "gender": "male",
+    "creative": 10,
+    "warm": 2,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 6,
+    "meaning": "Outstanding excellence",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "name_korean": "도율",
+    "name_romanized": "Doyul",
+    "gender": "male",
+    "creative": 7,
+    "warm": 5,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 4,
+    "meaning": "Righteous harmonious rhythm",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "name_korean": "민석",
+    "name_romanized": "Minseok",
+    "gender": "male",
+    "creative": 10,
+    "warm": 3,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 4,
+    "meaning": "Bright firm rock",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "석",
+        "romanized": "seok",
+        "meaning": "firm rock"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "name_korean": "하랑",
+    "name_romanized": "Harang",
+    "gender": "male",
+    "creative": 9,
+    "warm": 4,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Summer bright wave",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "랑",
+        "romanized": "rang",
+        "meaning": "flowing love"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "name_korean": "도준",
+    "name_romanized": "Dojun",
+    "gender": "male",
+    "creative": 10,
+    "warm": 3,
+    "urban": 2,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Righteous outstanding talent",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "name_korean": "강민",
+    "name_romanized": "Gangmin",
+    "gender": "male",
+    "creative": 9,
+    "warm": 2,
+    "urban": 3,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Strong brightness",
+    "characters": [
+      {
+        "char": "강",
+        "romanized": "gang",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "name_korean": "태준",
+    "name_romanized": "Taejun",
+    "gender": "male",
+    "creative": 7,
+    "warm": 3,
+    "urban": 2,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Great outstanding talent",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "name_korean": "지우",
+    "name_romanized": "Jiu",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 7,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Wisdom that fills the vast universe",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "name_korean": "서윤",
+    "name_romanized": "Seoyun",
+    "gender": "neutral",
+    "creative": 2,
+    "warm": 10,
+    "urban": 7,
+    "independent": 4,
+    "elegant": 7,
+    "meaning": "Clear grace that shines with bright harmony",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "name_korean": "서준",
+    "name_romanized": "Seojun",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 10,
+    "urban": 8,
+    "independent": 4,
+    "elegant": 8,
+    "meaning": "Clear grace and outstanding talent",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "name_korean": "민준",
+    "name_romanized": "Minjun",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 10,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Bright sky and outstanding talent",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "name_korean": "도윤",
+    "name_romanized": "Doyun",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 9,
+    "urban": 7,
+    "independent": 4,
+    "elegant": 7,
+    "meaning": "Righteous bright harmony",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "name_korean": "서연",
+    "name_romanized": "Seoyeon",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 9,
+    "urban": 6,
+    "independent": 4,
+    "elegant": 7,
+    "meaning": "Graceful as lotus blooms along a clear stream",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "name_korean": "하윤",
+    "name_romanized": "Hayun",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 8,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Summer warmth shining with bright harmony",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "name_korean": "시우",
+    "name_romanized": "Siu",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 9,
+    "urban": 7,
+    "independent": 3,
+    "elegant": 7,
+    "meaning": "Poetry and the universe",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "name_korean": "연우",
+    "name_romanized": "Yeonu",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 10,
+    "urban": 9,
+    "independent": 4,
+    "elegant": 9,
+    "meaning": "Lotus flower and the universe",
+    "characters": [
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "name_korean": "민서",
+    "name_romanized": "Minseo",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 10,
+    "urban": 7,
+    "independent": 3,
+    "elegant": 8,
+    "meaning": "Bright as the sky with clear grace",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "name_korean": "주원",
+    "name_romanized": "Juwon",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 9,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 9,
+    "meaning": "Precious pearl and garden wish",
+    "characters": [
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "name_korean": "지호",
+    "name_romanized": "Jiho",
+    "gender": "neutral",
+    "creative": 2,
+    "warm": 9,
+    "urban": 7,
+    "independent": 3,
+    "elegant": 7,
+    "meaning": "Wisdom vast as a lake",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "name_korean": "지안",
+    "name_romanized": "Jian",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 9,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Wisdom and peaceful serenity",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "안",
+        "romanized": "an",
+        "meaning": "peaceful serenity"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "name_korean": "서현",
+    "name_romanized": "Seohyeon",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 9,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Clear grace and wise virtue combined",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "name_korean": "하준",
+    "name_romanized": "Hajun",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 8,
+    "urban": 9,
+    "independent": 5,
+    "elegant": 10,
+    "meaning": "Summer outstanding talent",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "name_korean": "예준",
+    "name_romanized": "Yejun",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 9,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Beautiful outstanding talent",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "name_korean": "지민",
+    "name_romanized": "Jimin",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 9,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Wisdom brightness",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "name_korean": "하은",
+    "name_romanized": "Haeun",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 6,
+    "urban": 9,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Silver grace of a warm summer",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "name_korean": "윤서",
+    "name_romanized": "Yunseo",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 8,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Bright harmony with clear grace",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "name_korean": "서진",
+    "name_romanized": "Seojin",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 9,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Clear precious gem",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "name_korean": "지후",
+    "name_romanized": "Jihu",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 8,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Wisdom and generous spirit",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "후",
+        "romanized": "hu",
+        "meaning": "generous spirit"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "name_korean": "지유",
+    "name_romanized": "Jiyu",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 7,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Wisdom that flows gently",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "name_korean": "지원",
+    "name_romanized": "Jiwon",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 10,
+    "urban": 9,
+    "independent": 4,
+    "elegant": 5,
+    "meaning": "Wisdom flowering in a garden of wishes",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "name_korean": "도현",
+    "name_romanized": "Dohyeon",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 10,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Righteous and wise",
+    "characters": [
+      {
+        "char": "도",
+        "romanized": "do",
+        "meaning": "righteous path"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "name_korean": "은우",
+    "name_romanized": "Eunu",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 9,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Silver universe",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "name_korean": "선우",
+    "name_romanized": "Seonu",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 10,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Goodness and the universe",
+    "characters": [
+      {
+        "char": "선",
+        "romanized": "seon",
+        "meaning": "goodness and virtue"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "name_korean": "채원",
+    "name_romanized": "Chaewon",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 8,
+    "urban": 9,
+    "independent": 5,
+    "elegant": 5,
+    "meaning": "Colorful brilliance blooming in a garden of wishes",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "name_korean": "준우",
+    "name_romanized": "Junu",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 7,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Outstanding talent and the universe",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "name_korean": "수아",
+    "name_romanized": "Sua",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 8,
+    "urban": 9,
+    "independent": 4,
+    "elegant": 9,
+    "meaning": "Pure excellence with elegant beauty",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "name_korean": "준서",
+    "name_romanized": "Junseo",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 10,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 8,
+    "meaning": "Outstanding grace",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "name_korean": "지아",
+    "name_romanized": "Jia",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 7,
+    "urban": 9,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Wisdom and elegant beauty",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "name_korean": "시윤",
+    "name_romanized": "Siyun",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 8,
+    "urban": 9,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Poetry in harmonious rhythm",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "name_korean": "지윤",
+    "name_romanized": "Jiyun",
+    "gender": "neutral",
+    "creative": 3,
+    "warm": 9,
+    "urban": 8,
+    "independent": 4,
+    "elegant": 6,
+    "meaning": "Wisdom that shines harmoniously",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "name_korean": "우진",
+    "name_romanized": "Ujin",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 7,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Universe and precious gem",
+    "characters": [
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "name_korean": "서우",
+    "name_romanized": "Seou",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 10,
+    "urban": 9,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Clear grace and universe",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "name_korean": "하율",
+    "name_romanized": "Hayul",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 7,
+    "urban": 8,
+    "independent": 5,
+    "elegant": 6,
+    "meaning": "Summer harmonious rhythm",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "name_korean": "서아",
+    "name_romanized": "Seoa",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 9,
+    "urban": 9,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Clear graceful elegance",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "name_korean": "현우",
+    "name_romanized": "Hyeonu",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 6,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Wise universe",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "name_korean": "건우",
+    "name_romanized": "Geonu",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 7,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Strong healthy universe",
+    "characters": [
+      {
+        "char": "건",
+        "romanized": "geon",
+        "meaning": "strong and healthy"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "name_korean": "은서",
+    "name_romanized": "Eunseo",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 7,
+    "urban": 9,
+    "independent": 5,
+    "elegant": 5,
+    "meaning": "Silver grace that flows clearly",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "name_korean": "다은",
+    "name_romanized": "Daeun",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 8,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Abundant silver grace",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "name_korean": "지훈",
+    "name_romanized": "Jihun",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 7,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Wisdom and noble training",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "훈",
+        "romanized": "hun",
+        "meaning": "noble training"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "name_korean": "수현",
+    "name_romanized": "Suhyeon",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 7,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Pure excellence and wisdom",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "name_korean": "하린",
+    "name_romanized": "Harin",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 5,
+    "urban": 5,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Summer jade, rare and beautiful",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "린",
+        "romanized": "rin",
+        "meaning": "precious jade"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "name_korean": "유준",
+    "name_romanized": "Yujun",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 7,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Gentle and outstanding talent",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "name_korean": "예린",
+    "name_romanized": "Yerin",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 8,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Beautiful art like precious jade",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "린",
+        "romanized": "rin",
+        "meaning": "precious jade"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "name_korean": "시현",
+    "name_romanized": "Sihyeon",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 6,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Poetry and wisdom",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "name_korean": "소율",
+    "name_romanized": "Soyul",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 5,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Pure harmonious rhythm",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "name_korean": "수빈",
+    "name_romanized": "Subin",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 7,
+    "urban": 5,
+    "independent": 6,
+    "elegant": 9,
+    "meaning": "Pure excellence with refined elegance",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "빈",
+        "romanized": "bin",
+        "meaning": "refined elegance"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "name_korean": "지율",
+    "name_romanized": "Jiyul",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 6,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Wisdom in harmonious rhythm",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "name_korean": "유진",
+    "name_romanized": "Yujin",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 7,
+    "urban": 7,
+    "independent": 5,
+    "elegant": 6,
+    "meaning": "Gentle flow like a precious gem",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "name_korean": "예은",
+    "name_romanized": "Yeeun",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 9,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Beautiful art graced with silver",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "name_korean": "이준",
+    "name_romanized": "Ijun",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 5,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 8,
+    "meaning": "Joyful and outstanding talent",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "name_korean": "현서",
+    "name_romanized": "Hyeonseo",
+    "gender": "neutral",
+    "creative": 4,
+    "warm": 7,
+    "urban": 6,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Wise grace",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "name_korean": "유나",
+    "name_romanized": "Yuna",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 7,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 9,
+    "meaning": "Gentle flow with graceful beauty",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "name_korean": "이안",
+    "name_romanized": "Ian",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 6,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 5,
+    "meaning": "Joyful peaceful serenity",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "안",
+        "romanized": "an",
+        "meaning": "peaceful serenity"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "name_korean": "소윤",
+    "name_romanized": "Soyun",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 7,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Pure harmony shining brightly",
+    "characters": [
+      {
+        "char": "소",
+        "romanized": "so",
+        "meaning": "pure gentleness"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "name_korean": "예원",
+    "name_romanized": "Yewon",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 6,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 9,
+    "meaning": "Beautiful art in a garden of wishes",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "name_korean": "민재",
+    "name_romanized": "Minjae",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 9,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Bright and talented",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "name_korean": "서율",
+    "name_romanized": "Seoyul",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 8,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Clear harmonious rhythm",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "name_korean": "시은",
+    "name_romanized": "Sieun",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 7,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Poetic silver grace",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "name_korean": "시아",
+    "name_romanized": "Sia",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 6,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Poetry and elegant beauty",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "name_korean": "아린",
+    "name_romanized": "Arin",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 8,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Elegant jade beauty",
+    "characters": [
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      },
+      {
+        "char": "린",
+        "romanized": "rin",
+        "meaning": "precious jade"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "name_korean": "윤아",
+    "name_romanized": "Yuna",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 8,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Bright harmony with elegant beauty",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "name_korean": "윤우",
+    "name_romanized": "Yunu",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 8,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Bright harmony and universe",
+    "characters": [
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "name_korean": "채은",
+    "name_romanized": "Chaeeun",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 5,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Colorful brilliance and silver grace",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "name_korean": "정우",
+    "name_romanized": "Jeongu",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 6,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Pure universe",
+    "characters": [
+      {
+        "char": "정",
+        "romanized": "jeong",
+        "meaning": "still purity"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "name_korean": "예나",
+    "name_romanized": "Yena",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 8,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 4,
+    "meaning": "Beautiful and graceful art",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "name_korean": "현준",
+    "name_romanized": "Hyeonjun",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 8,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Wise and outstanding talent",
+    "characters": [
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      },
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "name_korean": "아인",
+    "name_romanized": "Ain",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 6,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 7,
+    "meaning": "Elegant benevolence",
+    "characters": [
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      },
+      {
+        "char": "인",
+        "romanized": "in",
+        "meaning": "benevolence"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "name_korean": "수민",
+    "name_romanized": "Sumin",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 7,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Pure excellence bright as the sky",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "name_korean": "아윤",
+    "name_romanized": "Ayun",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 4,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Elegant harmonious beauty",
+    "characters": [
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "name_korean": "다온",
+    "name_romanized": "Daon",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 6,
+    "urban": 5,
+    "independent": 5,
+    "elegant": 6,
+    "meaning": "Abundant warmth and gentleness",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "온",
+        "romanized": "on",
+        "meaning": "warmth"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "name_korean": "예서",
+    "name_romanized": "Yeseo",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 7,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Beautiful art with clear grace",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "name_korean": "이현",
+    "name_romanized": "Ihyeon",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 5,
+    "urban": 4,
+    "independent": 6,
+    "elegant": 8,
+    "meaning": "Joyful wisdom",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "name_korean": "수호",
+    "name_romanized": "Suho",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 7,
+    "urban": 7,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Pure vast lake",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "name_korean": "유주",
+    "name_romanized": "Yuju",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 7,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Gentle flow, precious as a pearl",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "name_korean": "승현",
+    "name_romanized": "Seunghyeon",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 6,
+    "urban": 3,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Rising wisdom",
+    "characters": [
+      {
+        "char": "승",
+        "romanized": "seung",
+        "meaning": "rising victory"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "name_korean": "서하",
+    "name_romanized": "Seoha",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 5,
+    "urban": 3,
+    "independent": 6,
+    "elegant": 5,
+    "meaning": "Clear grace in summer warmth",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "name_korean": "하진",
+    "name_romanized": "Hajin",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 4,
+    "urban": 3,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Summer precious gem",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "name_korean": "시온",
+    "name_romanized": "Sion",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 5,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 6,
+    "meaning": "Poetry and warm gentleness",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "온",
+        "romanized": "on",
+        "meaning": "warmth"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "name_korean": "유찬",
+    "name_romanized": "Yuchan",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 6,
+    "urban": 3,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Gentle brilliance",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "찬",
+        "romanized": "chan",
+        "meaning": "brilliant radiance"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "name_korean": "승우",
+    "name_romanized": "Seungu",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 6,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 4,
+    "meaning": "Rising universe",
+    "characters": [
+      {
+        "char": "승",
+        "romanized": "seung",
+        "meaning": "rising victory"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "name_korean": "가은",
+    "name_romanized": "Gaeun",
+    "gender": "neutral",
+    "creative": 5,
+    "warm": 5,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 8,
+    "meaning": "Beautiful silver grace",
+    "characters": [
+      {
+        "char": "가",
+        "romanized": "ga",
+        "meaning": "beautiful"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "name_korean": "다인",
+    "name_romanized": "Dain",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 5,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Abundant benevolence",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "인",
+        "romanized": "in",
+        "meaning": "benevolence"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "name_korean": "주아",
+    "name_romanized": "Jua",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 5,
+    "urban": 6,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Precious pearl with elegant beauty",
+    "characters": [
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 357,
+    "name_korean": "예진",
+    "name_romanized": "Yejin",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 3,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 5,
+    "meaning": "Beautiful art like a precious gem",
+    "characters": [
+      {
+        "char": "예",
+        "romanized": "ye",
+        "meaning": "art and beauty"
+      },
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "name_korean": "서영",
+    "name_romanized": "Seoyeong",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 4,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Clear grace that shines eternally",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "영",
+        "romanized": "yeong",
+        "meaning": "eternal brightness"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "name_korean": "연서",
+    "name_romanized": "Yeonseo",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 6,
+    "urban": 7,
+    "independent": 7,
+    "elegant": 6,
+    "meaning": "Lotus with clear grace",
+    "characters": [
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "name_korean": "유빈",
+    "name_romanized": "Yubin",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 4,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 8,
+    "meaning": "Gentle and refined elegance",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "빈",
+        "romanized": "bin",
+        "meaning": "refined elegance"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "name_korean": "민지",
+    "name_romanized": "Minji",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 3,
+    "urban": 6,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Bright sky and wisdom",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "name_korean": "지환",
+    "name_romanized": "Jihwan",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 3,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 7,
+    "meaning": "Wisdom bright and joyful",
+    "characters": [
+      {
+        "char": "지",
+        "romanized": "ji",
+        "meaning": "wisdom"
+      },
+      {
+        "char": "환",
+        "romanized": "hwan",
+        "meaning": "bright joy"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "name_korean": "채윤",
+    "name_romanized": "Chaeyun",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 4,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 6,
+    "meaning": "Colorful harmonious brilliance",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 364,
+    "name_korean": "율",
+    "name_romanized": "Yul",
+    "gender": "neutral",
+    "creative": 6,
+    "warm": 5,
+    "urban": 7,
+    "independent": 10,
+    "elegant": 7,
+    "meaning": "Harmonious rhythm that flows naturally",
+    "characters": [
+      {
+        "char": "율",
+        "romanized": "yul",
+        "meaning": "harmonious rhythm"
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "name_korean": "우주",
+    "name_romanized": "Uju",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 7,
+    "urban": 4,
+    "independent": 6,
+    "elegant": 7,
+    "meaning": "Vast universe filled with wonder",
+    "characters": [
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      },
+      {
+        "char": "주",
+        "romanized": "ju",
+        "meaning": "pearl"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "name_korean": "준혁",
+    "name_romanized": "Junhyeok",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 5,
+    "urban": 7,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Outstanding brilliant transformation",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "혁",
+        "romanized": "hyeok",
+        "meaning": "brilliant change"
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "name_korean": "수연",
+    "name_romanized": "Suyeon",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 4,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 4,
+    "meaning": "Pure excellence like a lotus flower",
+    "characters": [
+      {
+        "char": "수",
+        "romanized": "su",
+        "meaning": "pure excellence"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "name_korean": "나은",
+    "name_romanized": "Naeun",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 4,
+    "urban": 7,
+    "independent": 10,
+    "elegant": 8,
+    "meaning": "Graceful silver",
+    "characters": [
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "name_korean": "시후",
+    "name_romanized": "Sihu",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 4,
+    "urban": 7,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Poetry and generous spirit",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "후",
+        "romanized": "hu",
+        "meaning": "generous spirit"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "name_korean": "시연",
+    "name_romanized": "Siyeon",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 4,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 7,
+    "meaning": "Poetry blooming like lotus",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "name_korean": "서은",
+    "name_romanized": "Seoeun",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 4,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Clear grace and silver",
+    "characters": [
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      },
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "name_korean": "진우",
+    "name_romanized": "Jinu",
+    "gender": "neutral",
+    "creative": 10,
+    "warm": 4,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 7,
+    "meaning": "Precious and vast universe",
+    "characters": [
+      {
+        "char": "진",
+        "romanized": "jin",
+        "meaning": "precious gem"
+      },
+      {
+        "char": "우",
+        "romanized": "u",
+        "meaning": "universe"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "name_korean": "승민",
+    "name_romanized": "Seungmin",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 7,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Rising brightness",
+    "characters": [
+      {
+        "char": "승",
+        "romanized": "seung",
+        "meaning": "rising victory"
+      },
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "name_korean": "이서",
+    "name_romanized": "Iseo",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 7,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 3,
+    "meaning": "Joyful and clear grace",
+    "characters": [
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      },
+      {
+        "char": "서",
+        "romanized": "seo",
+        "meaning": "clear grace"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "name_korean": "채아",
+    "name_romanized": "Chaea",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 7,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Colorful brilliance with elegant beauty",
+    "characters": [
+      {
+        "char": "채",
+        "romanized": "chae",
+        "meaning": "colorful brilliance"
+      },
+      {
+        "char": "아",
+        "romanized": "a",
+        "meaning": "elegant beauty"
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "name_korean": "하연",
+    "name_romanized": "Hayeon",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 4,
+    "urban": 6,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Summer lotus flower",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "name_korean": "나윤",
+    "name_romanized": "Nayun",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 6,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 6,
+    "meaning": "Graceful harmony",
+    "characters": [
+      {
+        "char": "나",
+        "romanized": "na",
+        "meaning": "graceful"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "name_korean": "민성",
+    "name_romanized": "Minseong",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 3,
+    "urban": 3,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Bright sincerity",
+    "characters": [
+      {
+        "char": "민",
+        "romanized": "min",
+        "meaning": "bright sky"
+      },
+      {
+        "char": "성",
+        "romanized": "seong",
+        "meaning": "sincere brightness"
+      }
+    ]
+  },
+  {
+    "id": 379,
+    "name_korean": "하람",
+    "name_romanized": "Haram",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 6,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Summer blue sky",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "람",
+        "romanized": "ram",
+        "meaning": "blue sky"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "name_korean": "은호",
+    "name_romanized": "Eunho",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 3,
+    "urban": 3,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "Silver vast lake",
+    "characters": [
+      {
+        "char": "은",
+        "romanized": "eun",
+        "meaning": "silver grace"
+      },
+      {
+        "char": "호",
+        "romanized": "ho",
+        "meaning": "vast lake"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "name_korean": "다연",
+    "name_romanized": "Dayeon",
+    "gender": "neutral",
+    "creative": 7,
+    "warm": 3,
+    "urban": 5,
+    "independent": 8,
+    "elegant": 4,
+    "meaning": "Abundant lotus flowers",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "연",
+        "romanized": "yeon",
+        "meaning": "lotus flower"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "name_korean": "재이",
+    "name_romanized": "Jaei",
+    "gender": "neutral",
+    "creative": 10,
+    "warm": 4,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 5,
+    "meaning": "Talented joyful spirit",
+    "characters": [
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      },
+      {
+        "char": "이",
+        "romanized": "i",
+        "meaning": "joyful spirit"
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "name_korean": "재윤",
+    "name_romanized": "Jaeyun",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 4,
+    "urban": 4,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Talented harmony",
+    "characters": [
+      {
+        "char": "재",
+        "romanized": "jae",
+        "meaning": "brilliant talent"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "name_korean": "시원",
+    "name_romanized": "Siwon",
+    "gender": "neutral",
+    "creative": 10,
+    "warm": 3,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 5,
+    "meaning": "Poetry and garden wish",
+    "characters": [
+      {
+        "char": "시",
+        "romanized": "si",
+        "meaning": "poetry"
+      },
+      {
+        "char": "원",
+        "romanized": "won",
+        "meaning": "garden wish"
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "name_korean": "하랑",
+    "name_romanized": "Harang",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 5,
+    "urban": 5,
+    "independent": 10,
+    "elegant": 3,
+    "meaning": "Summer bright wave",
+    "characters": [
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      },
+      {
+        "char": "랑",
+        "romanized": "rang",
+        "meaning": "flowing love"
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "name_korean": "다현",
+    "name_romanized": "Dahyeon",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 5,
+    "urban": 4,
+    "independent": 10,
+    "elegant": 5,
+    "meaning": "Abundant wisdom",
+    "characters": [
+      {
+        "char": "다",
+        "romanized": "da",
+        "meaning": "abundant"
+      },
+      {
+        "char": "현",
+        "romanized": "hyeon",
+        "meaning": "wise virtue"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "name_korean": "준영",
+    "name_romanized": "Junyeong",
+    "gender": "neutral",
+    "creative": 8,
+    "warm": 4,
+    "urban": 5,
+    "independent": 9,
+    "elegant": 6,
+    "meaning": "Outstanding eternal brightness",
+    "characters": [
+      {
+        "char": "준",
+        "romanized": "jun",
+        "meaning": "outstanding talent"
+      },
+      {
+        "char": "영",
+        "romanized": "yeong",
+        "meaning": "eternal brightness"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "name_korean": "유하",
+    "name_romanized": "Yuha",
+    "gender": "neutral",
+    "creative": 10,
+    "warm": 3,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 5,
+    "meaning": "Gentle summer flow",
+    "characters": [
+      {
+        "char": "유",
+        "romanized": "yu",
+        "meaning": "gentle flow"
+      },
+      {
+        "char": "하",
+        "romanized": "ha",
+        "meaning": "summer warmth"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "name_korean": "태윤",
+    "name_romanized": "Taeyun",
+    "gender": "neutral",
+    "creative": 10,
+    "warm": 3,
+    "urban": 3,
+    "independent": 10,
+    "elegant": 6,
+    "meaning": "Great bright harmony",
+    "characters": [
+      {
+        "char": "태",
+        "romanized": "tae",
+        "meaning": "great peace"
+      },
+      {
+        "char": "윤",
+        "romanized": "yun",
+        "meaning": "bright harmony"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "name_korean": "한결",
+    "name_romanized": "Hangyeol",
+    "gender": "neutral",
+    "creative": 9,
+    "warm": 5,
+    "urban": 4,
+    "independent": 9,
+    "elegant": 7,
+    "meaning": "One consistent and noble spirit",
+    "characters": [
+      {
+        "char": "한",
+        "romanized": "han",
+        "meaning": "vast and noble"
+      },
+      {
+        "char": "결",
+        "romanized": "gyeol",
+        "meaning": "clarity"
+      }
+    ]
+  }
+]

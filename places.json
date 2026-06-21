@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Seongsu-dong, Seoul",
+    "name_ko": "성수동",
+    "description": "Seoul's creative hub of indie cafes, galleries, and repurposed factories — where the city feels alive with possibility.",
+    "gender_affinity": "all",
+    "creative": 9,
+    "warm": 6,
+    "urban": 9,
+    "independent": 8,
+    "elegant": 7,
+    "lat": 37.544,
+    "lng": 127.056,
+    "keywords": [
+      "Creative Hub",
+      "Indie Culture",
+      "Artsy",
+      "Trendy"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hongdae, Seoul",
+    "name_ko": "홍대",
+    "description": "A youthful playground of live music, street art, and late-night energy that never quite sleeps.",
+    "gender_affinity": "all",
+    "creative": 8,
+    "warm": 6,
+    "urban": 10,
+    "independent": 7,
+    "elegant": 3,
+    "lat": 37.557,
+    "lng": 126.926,
+    "keywords": [
+      "Night Life",
+      "Street Art",
+      "Social",
+      "Energetic"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Itaewon, Seoul",
+    "name_ko": "이태원",
+    "description": "Seoul's most international quarter, where global food, hidden bars, and bold nightlife collide after dark.",
+    "gender_affinity": "male",
+    "creative": 7,
+    "warm": 5,
+    "urban": 9,
+    "independent": 8,
+    "elegant": 5,
+    "lat": 37.534,
+    "lng": 126.994,
+    "keywords": [
+      "Cosmopolitan",
+      "Bold",
+      "Night Life",
+      "International"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Yeonnam-dong, Seoul",
+    "name_ko": "연남동",
+    "description": "A laid-back grid of brunch spots and tree-lined paths beside the old railway park, made for slow weekends.",
+    "gender_affinity": "all",
+    "creative": 7,
+    "warm": 7,
+    "urban": 7,
+    "independent": 6,
+    "elegant": 6,
+    "lat": 37.564,
+    "lng": 126.921,
+    "keywords": [
+      "Slow Living",
+      "Brunch Culture",
+      "Artsy",
+      "Laid-back"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bukchon Hanok Village, Seoul",
+    "name_ko": "북촌 한옥마을",
+    "description": "A hillside maze of centuries-old hanok houses, where tiled rooftops and quiet lanes frame the city's romantic past.",
+    "gender_affinity": "female",
+    "creative": 6,
+    "warm": 6,
+    "urban": 4,
+    "independent": 4,
+    "elegant": 9,
+    "lat": 37.582,
+    "lng": 126.983,
+    "keywords": [
+      "Traditional",
+      "Romantic",
+      "Historical",
+      "Aesthetic"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gangnam, Seoul",
+    "name_ko": "강남",
+    "description": "Glossy towers, flagship stores, and polished ambition — the sleek, fast-moving face of modern Seoul.",
+    "gender_affinity": "all",
+    "creative": 4,
+    "warm": 3,
+    "urban": 10,
+    "independent": 7,
+    "elegant": 8,
+    "lat": 37.498,
+    "lng": 127.028,
+    "keywords": [
+      "Ambitious",
+      "Polished",
+      "Urban",
+      "Stylish"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Euljiro, Seoul",
+    "name_ko": "을지로",
+    "description": "A retro warren of machine shops by day and hidden craft bars and pocha by night, beloved by the city's creative set.",
+    "gender_affinity": "male",
+    "creative": 8,
+    "warm": 5,
+    "urban": 7,
+    "independent": 8,
+    "elegant": 3,
+    "lat": 37.568,
+    "lng": 126.994,
+    "keywords": [
+      "Underground",
+      "Retro",
+      "Night Culture",
+      "Creative"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hannam-dong, Seoul",
+    "name_ko": "한남동",
+    "description": "Hillside galleries, designer boutiques, and quiet luxury overlooking the river — understated and effortlessly refined.",
+    "gender_affinity": "all",
+    "creative": 7,
+    "warm": 5,
+    "urban": 8,
+    "independent": 7,
+    "elegant": 9,
+    "lat": 37.535,
+    "lng": 127.007,
+    "keywords": [
+      "Refined",
+      "Art Lover",
+      "Understated Luxury",
+      "River View"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mangwon-dong, Seoul",
+    "name_ko": "망원동",
+    "description": "A homey neighborhood of a beloved traditional market and riverside strolls — warm, local, and unhurried.",
+    "gender_affinity": "all",
+    "creative": 5,
+    "warm": 8,
+    "urban": 6,
+    "independent": 5,
+    "elegant": 4,
+    "lat": 37.556,
+    "lng": 126.903,
+    "keywords": [
+      "Local",
+      "Warm",
+      "Market Culture",
+      "Riverside"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Seochon, Seoul",
+    "name_ko": "서촌",
+    "description": "A literary, artistic pocket of hanok studios and tiny galleries tucked beneath the old palace walls.",
+    "gender_affinity": "female",
+    "creative": 9,
+    "warm": 5,
+    "urban": 4,
+    "independent": 6,
+    "elegant": 8,
+    "lat": 37.578,
+    "lng": 126.97,
+    "keywords": [
+      "Literary",
+      "Artsy",
+      "Hanok",
+      "Quiet"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Ikseon-dong, Seoul",
+    "name_ko": "익선동",
+    "description": "A lattice of restored hanok alleys filled with romantic cafes and flower-framed courtyards.",
+    "gender_affinity": "female",
+    "creative": 7,
+    "warm": 8,
+    "urban": 6,
+    "independent": 4,
+    "elegant": 9,
+    "lat": 37.573,
+    "lng": 126.993,
+    "keywords": [
+      "Romantic",
+      "Aesthetic",
+      "Cafe Culture",
+      "Historic"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Yeonhui-dong, Seoul",
+    "name_ko": "연희동",
+    "description": "A calm residential enclave of celebrated bakeries and leafy streets — gentle and quietly elegant.",
+    "gender_affinity": "female",
+    "creative": 5,
+    "warm": 8,
+    "urban": 7,
+    "independent": 4,
+    "elegant": 8,
+    "lat": 37.567,
+    "lng": 126.936,
+    "keywords": [
+      "Gentle",
+      "Bakery Lover",
+      "Peaceful",
+      "Elegant"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Jeju Island",
+    "name_ko": "제주",
+    "description": "An island of volcanic coastlines, open fields, and ocean horizons — a place to breathe and roam free.",
+    "gender_affinity": "all",
+    "creative": 7,
+    "warm": 6,
+    "urban": 3,
+    "independent": 9,
+    "elegant": 5,
+    "lat": 33.489,
+    "lng": 126.498,
+    "keywords": [
+      "Free Spirit",
+      "Nature Lover",
+      "Adventurous",
+      "Outdoor"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Aewol, Jeju",
+    "name_ko": "제주 애월",
+    "description": "Jeju's dreamy western coast, lined with seaside cafes where sunsets melt into the water.",
+    "gender_affinity": "female",
+    "creative": 6,
+    "warm": 9,
+    "urban": 2,
+    "independent": 5,
+    "elegant": 9,
+    "lat": 33.462,
+    "lng": 126.309,
+    "keywords": [
+      "Dreamy",
+      "Coastal",
+      "Sunset Chaser",
+      "Quiet Escape"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Haeundae, Busan",
+    "name_ko": "부산 해운대",
+    "description": "Busan's iconic beach where high-rises meet the sea and the whole city spills onto the sand.",
+    "gender_affinity": "all",
+    "creative": 5,
+    "warm": 6,
+    "urban": 8,
+    "independent": 6,
+    "elegant": 6,
+    "lat": 35.158,
+    "lng": 129.16,
+    "keywords": [
+      "Beach Lover",
+      "Urban",
+      "Social",
+      "Vibrant"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Gwangalli, Busan",
+    "name_ko": "부산 광안리",
+    "description": "A buzzing beachfront framed by the glowing Diamond Bridge, alive with night views and seaside pojangmacha.",
+    "gender_affinity": "male",
+    "creative": 5,
+    "warm": 7,
+    "urban": 9,
+    "independent": 6,
+    "elegant": 4,
+    "lat": 35.153,
+    "lng": 129.118,
+    "keywords": [
+      "Night View",
+      "Social",
+      "Beach Culture",
+      "Energetic"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Jeonju Hanok Village",
+    "name_ko": "전주 한옥마을",
+    "description": "Hundreds of hanok rooftops, legendary food, and living tradition at the heart of Korea's culinary soul.",
+    "gender_affinity": "all",
+    "creative": 5,
+    "warm": 8,
+    "urban": 4,
+    "independent": 3,
+    "elegant": 8,
+    "lat": 35.817,
+    "lng": 127.154,
+    "keywords": [
+      "Food Lover",
+      "Traditional",
+      "Cultural Depth",
+      "Slow Traveler"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Gyeongju",
+    "name_ko": "경주",
+    "description": "An open-air museum of royal tombs, ancient temples, and a thousand years of history under wide skies.",
+    "gender_affinity": "all",
+    "creative": 4,
+    "warm": 5,
+    "urban": 3,
+    "independent": 6,
+    "elegant": 9,
+    "lat": 35.836,
+    "lng": 129.21,
+    "keywords": [
+      "History Buff",
+      "Contemplative",
+      "Heritage",
+      "Wanderer"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Gangneung",
+    "name_ko": "강릉",
+    "description": "An east-coast town of seaside coffee houses, surf breaks, and pine-scented beaches.",
+    "gender_affinity": "all",
+    "creative": 7,
+    "warm": 8,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 5,
+    "lat": 37.751,
+    "lng": 128.876,
+    "keywords": [
+      "Coffee Culture",
+      "Coastal",
+      "Chill",
+      "Surf"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Yeosu",
+    "name_ko": "여수",
+    "description": "A harbor city of glittering night seas, cable-car lights, and romance drifting over the water.",
+    "gender_affinity": "female",
+    "creative": 5,
+    "warm": 9,
+    "urban": 5,
+    "independent": 6,
+    "elegant": 7,
+    "lat": 34.761,
+    "lng": 127.662,
+    "keywords": [
+      "Romantic",
+      "Night Sea",
+      "Dreamy",
+      "Coastal"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Tongyeong",
+    "name_ko": "통영",
+    "description": "A picturesque port of island-dotted bays and the hillside Dongpirang mural village, where the sea meets art.",
+    "gender_affinity": "all",
+    "creative": 9,
+    "warm": 6,
+    "urban": 5,
+    "independent": 7,
+    "elegant": 4,
+    "lat": 34.854,
+    "lng": 128.433,
+    "keywords": [
+      "Artistic",
+      "Port Town",
+      "Island Hopper",
+      "Creative"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Damyang",
+    "name_ko": "담양",
+    "description": "A green country of towering bamboo groves and a famous metasequoia avenue — cool, hushed, and serene.",
+    "gender_affinity": "all",
+    "creative": 6,
+    "warm": 5,
+    "urban": 2,
+    "independent": 7,
+    "elegant": 8,
+    "lat": 35.32,
+    "lng": 126.988,
+    "keywords": [
+      "Nature",
+      "Serenity",
+      "Bamboo",
+      "Scenic"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Sokcho",
+    "name_ko": "속초",
+    "description": "A rugged fishing port at the foot of Seoraksan, where the mountains, beaches, and bustling markets meet.",
+    "gender_affinity": "male",
+    "creative": 4,
+    "warm": 6,
+    "urban": 4,
+    "independent": 7,
+    "elegant": 4,
+    "lat": 38.207,
+    "lng": 128.592,
+    "keywords": [
+      "Rugged",
+      "Mountain + Sea",
+      "Adventurous",
+      "Raw Beauty"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Suncheon",
+    "name_ko": "순천",
+    "description": "A tranquil eco-city of vast wetland reeds and sprawling gardens, where nature sets the pace.",
+    "gender_affinity": "all",
+    "creative": 4,
+    "warm": 8,
+    "urban": 2,
+    "independent": 4,
+    "elegant": 6,
+    "lat": 34.948,
+    "lng": 127.489,
+    "keywords": [
+      "Eco Lover",
+      "Calm",
+      "Wetland",
+      "Slow Living"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Geoje",
+    "name_ko": "거제",
+    "description": "A dramatic coastline of windswept cliffs and hidden coves on Korea's second-largest island.",
+    "gender_affinity": "male",
+    "creative": 5,
+    "warm": 5,
+    "urban": 4,
+    "independent": 8,
+    "elegant": 5,
+    "lat": 34.88,
+    "lng": 128.623,
+    "keywords": [
+      "Island Explorer",
+      "Coastal",
+      "Wild",
+      "Independent"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Seoraksan",
+    "name_ko": "설악산",
+    "description": "Korea's most majestic peaks — granite ridges, alpine trails, and autumn fire for those who climb.",
+    "gender_affinity": "male",
+    "creative": 4,
+    "warm": 5,
+    "urban": 2,
+    "independent": 10,
+    "elegant": 4,
+    "lat": 38.119,
+    "lng": 128.462,
+    "keywords": [
+      "Climber",
+      "Alpine",
+      "Majestic",
+      "Outdoor"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Boseong",
+    "name_ko": "보성",
+    "description": "Endless emerald tea terraces rolling over the hills — hushed, slow, and impossibly photogenic.",
+    "gender_affinity": "female",
+    "creative": 9,
+    "warm": 4,
+    "urban": 1,
+    "independent": 5,
+    "elegant": 9,
+    "lat": 34.771,
+    "lng": 127.081,
+    "keywords": [
+      "Aesthetic",
+      "Tea Fields",
+      "Serene",
+      "Photographer"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Pohang",
+    "name_ko": "포항",
+    "description": "A bold industrial port famed for the Homigot sunrise and the raw beauty of its rugged eastern coast.",
+    "gender_affinity": "male",
+    "creative": 4,
+    "warm": 5,
+    "urban": 6,
+    "independent": 8,
+    "elegant": 3,
+    "lat": 36.019,
+    "lng": 129.343,
+    "keywords": [
+      "Industrial Aesthetic",
+      "Raw",
+      "Sunrise Chaser",
+      "Coastal"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Ulleungdo",
+    "name_ko": "울릉도",
+    "description": "A remote volcanic island of sheer cliffs and wild seas, reached only by those chasing the horizon.",
+    "gender_affinity": "male",
+    "creative": 8,
+    "warm": 3,
+    "urban": 1,
+    "independent": 10,
+    "elegant": 7,
+    "lat": 37.493,
+    "lng": 130.905,
+    "keywords": [
+      "Remote",
+      "Wild",
+      "Horizon Chaser",
+      "Off-Grid"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Chuncheon",
+    "name_ko": "춘천",
+    "description": "A lakeside city of misty waters, Nami Island paths, and easygoing romance an hour from the capital.",
+    "gender_affinity": "female",
+    "creative": 5,
+    "warm": 9,
+    "urban": 3,
+    "independent": 4,
+    "elegant": 7,
+    "lat": 37.879,
+    "lng": 127.729,
+    "keywords": [
+      "Lakeside",
+      "Romantic",
+      "Peaceful",
+      "Weekend Escape"
+    ]
+  }
+]

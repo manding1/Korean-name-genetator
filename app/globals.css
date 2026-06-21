@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'LXGWWenKaiKR';
+  src: url('/fonts/LXGWWenKaiKR-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+
+/* ─── Ireum Design Tokens (from handoff) ──────────────── */
+:root {
+  /* Pastel palette */
+  --pink:        #F8CDD8;
+  --pink-deep:   #D090A8;
+  --pink-tint:   #FAECF2;
+  --fawn:        #F5D8B8;
+  --fawn-deep:   #C89878;
+  --fawn-tint:   #FAF0E4;
+  --maize:       #F8F0B8;
+  --maize-deep:  #D4B468;
+  --maize-tint:  #FAF4D8;
+  --maize-text:  #907848;
+  --sky:         #BCE0EC;
+  --sky-deep:    #84B8D0;
+  --sky-tint:    #E4F4FB;
+  --olive:       #C0D8BC;
+  --olive-deep:  #8CB48C;
+  --olive-tint:  #E8F4E4;
+
+  /* Neutrals */
+  --paper:      #FFFFFF;
+  --paper-2:    #F6F4F0;
+  --surface-2:  #FBFAF8;
+  --ink:        #2C2A27;
+  --ink-2:      #6E6862;
+  --ink-3:      #ABA49C;
+  --line:       #ECE8E1;
+  --line-2:     #E1DBD1;
+
+  /* Shadows */
+  --sh-1:   0 1px 2px rgba(60,50,40,.05), 0 3px 8px rgba(60,50,40,.05);
+  --sh-2:   0 2px 6px rgba(60,50,40,.05), 0 16px 36px rgba(60,50,40,.08);
+  --sh-pop: 0 12px 34px rgba(60,50,40,.12), 0 3px 10px rgba(60,50,40,.07);
+
+  /* Radius */
+  --r-card: 24px;
+  --r-btn:  999px;
+  --r-chip: 999px;
+
+  /* Semantic aliases (used by components) */
+  --color-bg:      var(--paper);
+  --color-surface: var(--paper-2);
+  --color-border:  var(--line);
+  --color-text:    var(--ink);
+  --color-muted:   var(--ink-2);
+  --color-accent:  var(--pink);
+}
+
+/* ─── Tailwind v4 Theme ──────────────────────────────── */
+@theme inline {
+  --font-sans:    'Nunito Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Fredoka', 'Nunito Sans', sans-serif;
+  --font-korean:  'Gowun Dodum', serif;
+  --font-mono:    'Space Mono', ui-monospace, monospace;
+}
+
+/* ─── Base ───────────────────────────────────────────── */
+html {
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+/* ─── Utility classes ────────────────────────────────── */
+.font-korean  { font-family: var(--font-korean); }
+.font-display { font-family: var(--font-display); }
+.font-mono    { font-family: var(--font-mono); }
+
+/* ─── Button press effect (3px drop) ─────────────────── */
+.btn-press {
+  transition: box-shadow 80ms, transform 80ms;
+}
+.btn-press:active {
+  transform: translateY(3px);
+}
