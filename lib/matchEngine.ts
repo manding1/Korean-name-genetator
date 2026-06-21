@@ -217,17 +217,21 @@ export function match(answers: string[], userName?: string): KoreanNameResult {
   const topDramas = [
     sortedDramas[0],
     ...([...sortedDramas.slice(1, 6)].sort(() => Math.random() - 0.5).slice(0, 2)),
-  ].map(({ item, d: itemDist }) => ({
-    ...item,
-    match_score: Math.min(100, Math.max(0, Math.round((1 - itemDist / 50) * 100))),
-  }));
+  ]
+    .map(({ item, d: itemDist }) => ({
+      ...item,
+      match_score: Math.min(100, Math.max(0, Math.round((1 - itemDist / 50) * 100))),
+    }))
+    .sort((a, b) => b.match_score - a.match_score);
   const topMovies = [
     sortedMovies[0],
     ...([...sortedMovies.slice(1, 6)].sort(() => Math.random() - 0.5).slice(0, 2)),
-  ].map(({ item, d: itemDist }) => ({
-    ...item,
-    match_score: Math.min(100, Math.max(0, Math.round((1 - itemDist / 50) * 100))),
-  }));
+  ]
+    .map(({ item, d: itemDist }) => ({
+      ...item,
+      match_score: Math.min(100, Math.max(0, Math.round((1 - itemDist / 50) * 100))),
+    }))
+    .sort((a, b) => b.match_score - a.match_score);
 
   const name = best.n;
 
