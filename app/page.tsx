@@ -1,12 +1,20 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 
 export default function LandingPage() {
   const router = useRouter();
   const [name, setName] = useState('');
+  const [nameCount, setNameCount] = useState<number | null>(null);
+
+  useEffect(() => {
+    fetch('/api/count')
+      .then((r) => r.json())
+      .then((d) => setNameCount(d.count))
+      .catch(() => {});
+  }, []);
 
   const handleStart = () => {
     const trimmed = name.trim();
@@ -93,6 +101,12 @@ export default function LandingPage() {
         <p className="text-xs text-[var(--ink-2)] mt-5">
           30–60 seconds · free
         </p>
+
+        {nameCount !== null && nameCount > 0 && (
+          <p className="text-xs text-[var(--ink-2)] mt-3">
+            ✨ <strong>{nameCount.toLocaleString()}</strong> names generated so far
+          </p>
+        )}
       </div>
 
       {/* Feature strip */}

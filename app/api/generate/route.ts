@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { match } from '@/lib/matchEngine';
+import { kv } from '@vercel/kv';
 
 export async function POST(request: NextRequest) {
   try {
@@ -13,6 +14,11 @@ export async function POST(request: NextRequest) {
     }
 
     const result = match(answers, typeof userName === 'string' ? userName : undefined);
+
+    try {
+      await kv.incr('name_count');
+    } catch {}
+
     return NextResponse.json(result);
   } catch (error) {
     console.error('Generate error:', error);
