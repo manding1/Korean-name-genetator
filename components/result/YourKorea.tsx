@@ -230,7 +230,7 @@ export default function YourKorea({ places }: YourKoreaProps) {
         </p>
 
         <div className="flex flex-wrap gap-1.5 mb-4">
-          {place.keywords.map((kw) => (
+          {place.keywords.slice(0, 3).map((kw) => (
             <span
               key={kw}
               className="text-xs px-2.5 py-1 rounded-full font-semibold"
